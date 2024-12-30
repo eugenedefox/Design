@@ -1,3 +1,11 @@
 {
-  "cssTheme": "Catppuccin"
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 22,
+  "theme": "moonstone",
+  "interfaceFontFamily": "Buyan,JetBrains Mono NL,Moyenage,AKONY,Le Murmure,Damion,Bebas Neue,Komika Axis,Arial",
+  "textFontFamily": "Basteleur Moonlight,Bebas Neue,JetBrains Mono NL",
+  "monospaceFontFamily": "GarciaMarquez",
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "accentColor": "#186f92"
 }

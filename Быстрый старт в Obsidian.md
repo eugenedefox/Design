@@ -7,7 +7,8 @@ Quick switcher - быстрый поиск по заметкам
 Открыть читающий вид => Toggle reading view 
 
 Stack tabs
-Quick switcher Hotkey
+
+**Quick switcher Hotkey**
 
 Плагины:
 Graph
@@ -18,6 +19,7 @@ Excel
 Spaced Repetition
 Dashboard
 AudioRecorder
+
 
 
 

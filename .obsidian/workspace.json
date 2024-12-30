@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ac8de0c68ad8b35c",
+        "id": "98a969ef668f0faf",
         "type": "tabs",
         "children": [
           {
-            "id": "a2c46305589ee215",
+            "id": "ea9ff9903d90e7de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Для дизайна teepublic.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Для дизайна teepublic.excalidraw"
             }
           }
         ],
@@ -30,7 +32,7 @@
       {
         "id": "d22d1cd4aaf433ae",
         "type": "tabs",
-        "dimension": 65.35677352637022,
+        "dimension": 57.03703703703704,
         "children": [
           {
             "id": "8229cc1ff33e7ef3",
@@ -76,7 +78,7 @@
       {
         "id": "c8be7815d57398f3",
         "type": "tabs",
-        "dimension": 34.64322647362978,
+        "dimension": 42.96296296296296,
         "children": [
           {
             "id": "198b0b0ae3682fa7",
@@ -92,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 297.00915145874023
   },
   "right": {
     "id": "550b9e8299955c0d",
@@ -101,6 +103,7 @@
       {
         "id": "1da5fab26547f6e6",
         "type": "tabs",
+        "dimension": 48.49340866290019,
         "children": [
           {
             "id": "17836bb4bfeabb98",
@@ -108,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Для дизайна teepublic.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Для дизайна teepublic.excalidraw"
             }
           },
           {
@@ -152,11 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Для дизайна teepublic.excalidraw.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Для дизайна teepublic.excalidraw"
+              "title": "Outline"
             }
           },
           {
@@ -199,11 +201,31 @@
               "title": "Source Control"
             }
           }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "32ced4c2394580ed",
+        "type": "tabs",
+        "dimension": 51.50659133709981,
+        "children": [
+          {
+            "id": "6e47c4d3d038c35a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 420
+    "width": 386
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,27 +246,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8229cc1ff33e7ef3",
+  "active": "6e47c4d3d038c35a",
   "lastOpenFiles": [
     "Excalidraw/Для дизайна teepublic.excalidraw.md",
+    "Excalidraw/Сartoon.md",
+    "2024-12-30.md",
+    "Source/Pasted Image 20241230235906_617.png",
+    "Быстрый старт в Obsidian.md",
+    "Source/Pasted Image 20241230222827_475.png",
+    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
+    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Font/Скачать шрифт.md",
+    "Дизайн TEEPUBLIC",
+    "Звук для таймера/spongebob-fail.mp3",
+    "Звук для таймера",
+    "Новая папка",
+    "Шрифты для дизайна.md",
+    "Source/Pasted Image 20241230222827_475 1.png",
+    "Source/4b0c6726-22b3-4180-904f-be8430dcbd90.jpg",
+    "Source/76J1 1.gif",
+    "Source/Jellyfish (1).mp3",
+    "Source/76J1.gif",
+    "Source/1Снимок 1.png",
+    "Source/2Снимок.png",
+    "Font/NewYorkSmall-Regular.ttf",
+    "Font/Не подтвержден 420223.crdownload",
+    "Font/newyork.eot",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "2024-12-30.md",
-    "Быстрый старт в Obsidian.md",
     "Быстрый.md",
-    "Untitled.md",
-    "Source/1Снимок 1.png",
-    "Source/4b0c6726-22b3-4180-904f-be8430dcbd90.jpg",
-    "Source/2Снимок.png",
-    "Source/76J1 1.gif",
-    "Source/76J1.gif",
-    "Source/Jellyfish (1).mp3",
-    "Source/1Снимок.png",
     "Что-то ещё сделал.md",
     "Изменения.md",
-    "Excalidraw",
-    "Что-то создал.md",
-    "Source"
+    "Что-то создал.md"
   ]
 }
