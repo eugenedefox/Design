@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f48ee44a14eb18f5",
+        "id": "ac8de0c68ad8b35c",
         "type": "tabs",
         "children": [
           {
-            "id": "e57a65953e94dfc1",
+            "id": "a2c46305589ee215",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "429d710d32858ba3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Для дизайна teepublic.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Для дизайна teepublic.excalidraw"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -121,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Для дизайна teepublic.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Для дизайна teepublic.excalidraw"
+              "title": "Backlinks"
             }
           },
           {
@@ -217,10 +203,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 420
   },
   "left-ribbon": {
     "hiddenItems": {
+      "callout-manager:Insert Callout": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -237,12 +224,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "429d710d32858ba3",
+  "active": "8229cc1ff33e7ef3",
   "lastOpenFiles": [
+    "Excalidraw/Для дизайна teepublic.excalidraw.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "Untitled 2.canvas",
     "2024-12-30.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "Быстрый старт в Obsidian.md",
     "Быстрый.md",
     "Untitled.md",
@@ -255,7 +243,6 @@
     "Source/1Снимок.png",
     "Что-то ещё сделал.md",
     "Изменения.md",
-    "Excalidraw/Для дизайна teepublic.excalidraw.md",
     "Excalidraw",
     "Что-то создал.md",
     "Source"

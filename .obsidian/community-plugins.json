@@ -14,5 +14,7 @@
   "antidote-grammar-checker-integration",
   "obsidian-view-mode-by-frontmatter",
   "editing-toolbar",
-  "templater-obsidian"
+  "templater-obsidian",
+  "callout-manager",
+  "obsidian-style-settings"
 ]
