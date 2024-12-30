@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "675145c0244bea8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f48ee44a14eb18f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e57a65953e94dfc1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "429d710d32858ba3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Для дизайна teepublic.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Для дизайна teepublic.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 1,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed1b1798e5fb88b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d22d1cd4aaf433ae",
+        "type": "tabs",
+        "dimension": 65.35677352637022,
+        "children": [
+          {
+            "id": "8229cc1ff33e7ef3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "456fe4de117b1144",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f2898abef3103c59",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c8be7815d57398f3",
+        "type": "tabs",
+        "dimension": 34.64322647362978,
+        "children": [
+          {
+            "id": "198b0b0ae3682fa7",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5
+  },
+  "right": {
+    "id": "550b9e8299955c0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1da5fab26547f6e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17836bb4bfeabb98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Для дизайна teepublic.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Для дизайна teepublic.excalidraw"
+            }
+          },
+          {
+            "id": "c1bc74fbce57825c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Для дизайна teepublic.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Для дизайна teepublic.excalidraw"
+            }
+          },
+          {
+            "id": "faedda58df2157a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ce45628a3af1989a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Для дизайна teepublic.excalidraw.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Для дизайна teepublic.excalidraw"
+            }
+          },
+          {
+            "id": "d5d537bcaae12a08",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "8ade09b4259f6ce0",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "8239d4c7dce4b1c6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "d74ca99157c1cafc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 482.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "soundscapes:Soundscapes: My Music": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "429d710d32858ba3",
+  "lastOpenFiles": [
+    "Untitled 2.canvas",
+    "2024-12-30.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Быстрый старт в Obsidian.md",
+    "Быстрый.md",
+    "Untitled.md",
+    "Source/1Снимок 1.png",
+    "Source/4b0c6726-22b3-4180-904f-be8430dcbd90.jpg",
+    "Source/2Снимок.png",
+    "Source/76J1 1.gif",
+    "Source/76J1.gif",
+    "Source/Jellyfish (1).mp3",
+    "Source/1Снимок.png",
+    "Что-то ещё сделал.md",
+    "Изменения.md",
+    "Excalidraw/Для дизайна teepublic.excalidraw.md",
+    "Excalidraw",
+    "Что-то создал.md",
+    "Source"
+  ]
+}
