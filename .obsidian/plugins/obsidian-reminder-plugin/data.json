@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "daily notes/2024-11-30.md": [
+      {
+        "title": "начни с малого",
+        "time": "2024-12-31",
+        "rowNumber": 0
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",

@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "Source",
   "promptDelete": false,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "livePreview": true
 }

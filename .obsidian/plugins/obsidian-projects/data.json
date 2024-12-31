@@ -1,6 +1,74 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Дизайн TEEPUBLIC",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "Дизайн TEEPUBLIC",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "2ca2026c-6f37-4ec1-88a3-a3a85d14c9e5",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b41bdb92-0da1-4bb2-8ab8-ba48c229d8fe",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d688c250-cfc8-4a6f-be9b-fc7861ae4391",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "0e44e115-0dca-49cb-ad3e-4b396ebbf5f5",
+      "name": "дизайн teepublic"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,

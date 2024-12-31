@@ -4,49 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "fb44c15c45d816e0",
-        "type": "split",
+        "id": "c3dc699352c17f0c",
+        "type": "tabs",
         "children": [
           {
-            "id": "c3dc699352c17f0c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "872976b9badcf9cb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "markmind/MINDMAP.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "MINDMAP"
-                }
-              }
-            ],
-            "stacked": true
+            "id": "872976b9badcf9cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "markmind/MINDMAP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MINDMAP"
+            }
           },
           {
-            "id": "e0d55c440f39ef14",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3a5b80a1841b8fa8",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {},
-                  "icon": "dot-network",
-                  "title": "Mind Map of MINDMAP"
-                }
-              }
-            ]
+            "id": "e7d35872b270b3fd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "pinned": true,
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -58,7 +48,7 @@
       {
         "id": "d22d1cd4aaf433ae",
         "type": "tabs",
-        "dimension": 62.24899598393575,
+        "dimension": 53.87149917627677,
         "children": [
           {
             "id": "8229cc1ff33e7ef3",
@@ -104,7 +94,7 @@
       {
         "id": "c8be7815d57398f3",
         "type": "tabs",
-        "dimension": 37.75100401606426,
+        "dimension": 46.12850082372323,
         "children": [
           {
             "id": "198b0b0ae3682fa7",
@@ -120,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.00915145874023
+    "width": 305.503475189209
   },
   "right": {
     "id": "550b9e8299955c0d",
@@ -129,7 +119,7 @@
       {
         "id": "1da5fab26547f6e6",
         "type": "tabs",
-        "dimension": 48.49340866290018,
+        "dimension": 48.7062404870624,
         "children": [
           {
             "id": "17836bb4bfeabb98",
@@ -137,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Быстрый старт в Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Быстрый старт в Obsidian"
+              "title": "Backlinks"
             }
           },
           {
@@ -156,12 +145,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Быстрый старт в Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Быстрый старт в Obsidian"
+              "title": "Outgoing links"
             }
           },
           {
@@ -182,11 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "markmind/MINDMAP.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of MINDMAP"
+              "title": "Outline"
             }
           },
           {
@@ -218,24 +204,14 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "d74ca99157c1cafc",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "32ced4c2394580ed",
         "type": "tabs",
-        "dimension": 51.50659133709982,
+        "dimension": 51.2937595129376,
         "children": [
           {
             "id": "6e47c4d3d038c35a",
@@ -253,7 +229,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 398.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,10 +252,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d5d537bcaae12a08",
+  "active": "e7d35872b270b3fd",
   "lastOpenFiles": [
-    "Создание Prompt.md",
     "markmind/MINDMAP.md",
+    "daily notes/2024-11-30.md",
+    "Source/Pasted Image 20241230222827_475.png",
+    "Быстрый старт в Obsidian.md",
+    "Создание Prompt.md",
     "ПОИСК НИШИ.md",
     "Untitled mindmap.md",
     "Excalidraw/Для дизайна teepublic.excalidraw.md",
@@ -301,16 +281,12 @@
     "Google FontsGoogle Fonts.md",
     "Adobe Photoshop.md",
     "markmind",
-    "Быстрый старт в Obsidian.md",
     "Шрифты для дизайна.md",
     "Font/cartoon.md",
     "Heatmap.md",
-    "daily notes/2024-12-30.md",
-    "daily notes/2024-12-31.md",
     "template",
     "daily notes",
     "Source/Pasted Image 20241230235906_617.png",
-    "Source/Pasted Image 20241230222827_475.png",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded",
