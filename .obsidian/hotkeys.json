@@ -31,5 +31,27 @@
       ],
       "key": "ArrowDown"
     }
-  ]
+  ],
+  "shortcuts-extender:shortcut-left-square-bracket": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "х"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "["
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "workspace:goto-tab-1": [],
+  "shortcuts-extender:heading-1": []
 }
