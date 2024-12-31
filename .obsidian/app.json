@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "Source",
-  "promptDelete": false
+  "promptDelete": false,
+  "propertiesInDocument": "source"
 }

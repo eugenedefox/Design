@@ -6,7 +6,7 @@
   "notificationSound": true,
   "customSound": "D:/__AGIT/Дизайны\\Звук для таймера/spongebob-fail.mp3",
   "showTaskProgress": true,
-  "enableTaskTracking": false,
+  "enableTaskTracking": true,
   "logFile": "DAILY",
   "logFocused": false,
   "logPath": "",

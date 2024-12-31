@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "98a969ef668f0faf",
+        "id": "c3dc699352c17f0c",
         "type": "tabs",
         "children": [
           {
-            "id": "ea9ff9903d90e7de",
+            "id": "8dcae0caeaf627e0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Для дизайна teepublic.excalidraw.md"
+                "file": "daily notes/2024-12-30.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Для дизайна teepublic.excalidraw"
+              "icon": "lucide-file",
+              "title": "2024-12-30"
             }
           }
         ],
@@ -103,7 +106,7 @@
       {
         "id": "1da5fab26547f6e6",
         "type": "tabs",
-        "dimension": 48.49340866290019,
+        "dimension": 48.49340866290018,
         "children": [
           {
             "id": "17836bb4bfeabb98",
@@ -156,9 +159,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "daily notes/2024-12-30.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2024-12-30"
             }
           },
           {
@@ -202,12 +207,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "32ced4c2394580ed",
         "type": "tabs",
-        "dimension": 51.50659133709981,
+        "dimension": 51.50659133709982,
         "children": [
           {
             "id": "6e47c4d3d038c35a",
@@ -246,13 +251,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e47c4d3d038c35a",
+  "active": "d5d537bcaae12a08",
   "lastOpenFiles": [
+    "daily notes/2024-12-31.md",
+    "daily notes/2024-12-30.md",
+    "Heatmap.md",
+    "cartoon.md",
     "Excalidraw/Для дизайна teepublic.excalidraw.md",
-    "Excalidraw/Сartoon.md",
-    "2024-12-30.md",
-    "Source/Pasted Image 20241230235906_617.png",
+    "Font/Скачать шрифт.md",
     "Быстрый старт в Obsidian.md",
+    "template",
+    "daily notes",
+    "Excalidraw/Сartoon.md",
+    "Source/Pasted Image 20241230235906_617.png",
     "Source/Pasted Image 20241230222827_475.png",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
@@ -260,7 +271,6 @@
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Font/Скачать шрифт.md",
     "Дизайн TEEPUBLIC",
     "Звук для таймера/spongebob-fail.mp3",
     "Звук для таймера",
@@ -274,8 +284,6 @@
     "Source/1Снимок 1.png",
     "Source/2Снимок.png",
     "Font/NewYorkSmall-Regular.ttf",
-    "Font/Не подтвержден 420223.crdownload",
-    "Font/newyork.eot",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
