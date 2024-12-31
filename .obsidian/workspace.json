@@ -23,20 +23,32 @@
             }
           },
           {
-            "id": "e7d35872b270b3fd",
+            "id": "43c71d20450190d6",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дизайн TEEPUBLIC/PRojects.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PRojects"
+            }
+          },
+          {
+            "id": "c7c9ef0111eada0d",
+            "type": "leaf",
             "state": {
               "type": "obsidian-projects",
               "state": {},
-              "pinned": true,
               "icon": "projects-icon",
               "title": "Projects"
             }
           }
         ],
-        "currentTab": 1,
-        "stacked": true
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,8 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5,
-    "collapsed": true
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,9 +263,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e7d35872b270b3fd",
+  "active": "c7c9ef0111eada0d",
   "lastOpenFiles": [
+    "Дизайн TEEPUBLIC/PRojects.md",
     "markmind/MINDMAP.md",
+    "Дизайн TEEPUBLIC/хуй.md",
     "daily notes/2024-11-30.md",
     "Source/Pasted Image 20241230222827_475.png",
     "Быстрый старт в Obsidian.md",
@@ -283,7 +296,6 @@
     "markmind",
     "Шрифты для дизайна.md",
     "Font/cartoon.md",
-    "Heatmap.md",
     "template",
     "daily notes",
     "Source/Pasted Image 20241230235906_617.png",

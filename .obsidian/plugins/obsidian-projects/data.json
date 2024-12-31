@@ -2,7 +2,14 @@
   "version": 2,
   "projects": [
     {
-      "fieldConfig": {},
+      "fieldConfig": {
+        "стадия": {
+          "options": [
+            "опубликовано",
+            "ещё не опубликовано"
+          ]
+        }
+      },
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
@@ -17,7 +24,12 @@
       "newNotesFolder": "Дизайн TEEPUBLIC",
       "views": [
         {
-          "config": {},
+          "config": {
+            "orderFields": [
+              "идея для дизайна"
+            ],
+            "fieldConfig": {}
+          },
           "filter": {
             "conjunction": "and",
             "conditions": []
@@ -63,6 +75,22 @@
           "id": "d688c250-cfc8-4a6f-be9b-fc7861ae4391",
           "name": "Calendar",
           "type": "calendar"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "6749afbc-fb2b-4047-9bcb-b19ad5b0398f",
+          "name": "Gallery",
+          "type": "gallery"
         }
       ],
       "id": "0e44e115-0dca-49cb-ad3e-4b396ebbf5f5",
