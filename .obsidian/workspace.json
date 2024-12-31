@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3dc699352c17f0c",
+        "id": "1e078c1a510b35cc",
         "type": "tabs",
         "children": [
           {
-            "id": "872976b9badcf9cb",
+            "id": "3387704184745923",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,34 +21,24 @@
               "icon": "lucide-file",
               "title": "MINDMAP"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "83747f1f7a6196fd",
+        "type": "tabs",
+        "children": [
           {
-            "id": "43c71d20450190d6",
+            "id": "4d0327adc88ab97a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дизайн TEEPUBLIC/PRojects.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PRojects"
-            }
-          },
-          {
-            "id": "c7c9ef0111eada0d",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
+              "type": "mindmap",
               "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "icon": "dot-network",
+              "title": "Mind Map of MINDMAP"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.503475189209
+    "width": 258.503475189209
   },
   "right": {
     "id": "550b9e8299955c0d",
@@ -139,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "markmind/MINDMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for MINDMAP"
             }
           },
           {
@@ -157,11 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "markmind/MINDMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from MINDMAP"
             }
           },
           {
@@ -182,9 +174,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "markmind/MINDMAP.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of MINDMAP"
             }
           },
           {
@@ -218,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "32ced4c2394580ed",
@@ -241,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,17 +257,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c7c9ef0111eada0d",
+  "active": "3387704184745923",
   "lastOpenFiles": [
-    "Дизайн TEEPUBLIC/PRojects.md",
+    "Шрифты.md",
     "markmind/MINDMAP.md",
+    "Untitled mindmap.md",
+    "Дизайн TEEPUBLIC/PRojects.md",
     "Дизайн TEEPUBLIC/хуй.md",
     "daily notes/2024-11-30.md",
     "Source/Pasted Image 20241230222827_475.png",
     "Быстрый старт в Obsidian.md",
     "Создание Prompt.md",
     "ПОИСК НИШИ.md",
-    "Untitled mindmap.md",
     "Excalidraw/Для дизайна teepublic.excalidraw.md",
     "Source/Pasted image 20241231060310.png",
     "markmind/Design mindmap.md",
@@ -290,7 +285,6 @@
     "Создание дизайна.md",
     "markmind/DESIGN.md",
     "Растровое.md",
-    "Шрифты.md",
     "Google FontsGoogle Fonts.md",
     "Adobe Photoshop.md",
     "markmind",
