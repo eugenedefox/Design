@@ -35,7 +35,7 @@
       {
         "id": "d22d1cd4aaf433ae",
         "type": "tabs",
-        "dimension": 62.24899598393574,
+        "dimension": 62.24899598393575,
         "children": [
           {
             "id": "8229cc1ff33e7ef3",
@@ -207,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       },
       {
         "id": "32ced4c2394580ed",
@@ -252,7 +252,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d74ca99157c1cafc",
+  "active": "d5d537bcaae12a08",
   "lastOpenFiles": [
     "Excalidraw/Для дизайна teepublic.excalidraw.md",
     "Шрифты для дизайна.md",
