@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-12-30.md",
+                "file": "Быстрый старт в Obsidian.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-12-30"
+              "title": "Быстрый старт в Obsidian"
             }
           }
         ],
@@ -35,7 +35,7 @@
       {
         "id": "d22d1cd4aaf433ae",
         "type": "tabs",
-        "dimension": 57.03703703703704,
+        "dimension": 62.24899598393574,
         "children": [
           {
             "id": "8229cc1ff33e7ef3",
@@ -81,7 +81,7 @@
       {
         "id": "c8be7815d57398f3",
         "type": "tabs",
-        "dimension": 42.96296296296296,
+        "dimension": 37.75100401606426,
         "children": [
           {
             "id": "198b0b0ae3682fa7",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Для дизайна teepublic.excalidraw.md",
+                "file": "Быстрый старт в Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Для дизайна teepublic.excalidraw"
+              "title": "Backlinks for Быстрый старт в Obsidian"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Для дизайна teepublic.excalidraw.md",
+                "file": "Быстрый старт в Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Для дизайна teepublic.excalidraw"
+              "title": "Outgoing links from Быстрый старт в Obsidian"
             }
           },
           {
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2024-12-30.md"
+                "file": "Быстрый старт в Obsidian.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-12-30"
+              "title": "Outline of Быстрый старт в Obsidian"
             }
           },
           {
@@ -207,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       },
       {
         "id": "32ced4c2394580ed",
@@ -230,7 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 451.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,18 +248,20 @@
       "soundscapes:Soundscapes: My Music": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-projects:Open projects": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d5d537bcaae12a08",
+  "active": "d74ca99157c1cafc",
   "lastOpenFiles": [
-    "daily notes/2024-12-31.md",
-    "daily notes/2024-12-30.md",
-    "Heatmap.md",
-    "cartoon.md",
     "Excalidraw/Для дизайна teepublic.excalidraw.md",
-    "Font/Скачать шрифт.md",
+    "Шрифты для дизайна.md",
     "Быстрый старт в Obsidian.md",
+    "Font/cartoon.md",
+    "Heatmap.md",
+    "daily notes/2024-12-30.md",
+    "daily notes/2024-12-31.md",
+    "Font/Скачать шрифт.md",
     "template",
     "daily notes",
     "Excalidraw/Сartoon.md",
@@ -275,7 +277,6 @@
     "Звук для таймера/spongebob-fail.mp3",
     "Звук для таймера",
     "Новая папка",
-    "Шрифты для дизайна.md",
     "Source/Pasted Image 20241230222827_475 1.png",
     "Source/4b0c6726-22b3-4180-904f-be8430dcbd90.jpg",
     "Source/76J1 1.gif",

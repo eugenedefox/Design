@@ -23,5 +23,13 @@
       "key": "W"
     }
   ],
-  "workspace:close": []
+  "workspace:close": [],
+  "markdown:add-metadata-property": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ]
 }

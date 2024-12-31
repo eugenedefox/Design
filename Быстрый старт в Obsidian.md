@@ -6,19 +6,12 @@ Quick switcher - быстрый поиск по заметкам
 СTRL + L => Чекбокс
 Открыть читающий вид => Toggle reading view 
 
+Качаешь шрифты с папки FONT
+
 Stack tabs
+**Quick switcher Hotkey** Сtrl+`
 
-**Quick switcher Hotkey**
 
-Плагины:
-Graph
-Canvas
-Omnisearch
-Drawing
-Excel
-Spaced Repetition
-Dashboard
-AudioRecorder
 
 
 
