@@ -34,7 +34,7 @@
       {
         "id": "d22d1cd4aaf433ae",
         "type": "tabs",
-        "dimension": 53.87149917627677,
+        "dimension": 53.87149917627678,
         "children": [
           {
             "id": "8229cc1ff33e7ef3",
@@ -80,7 +80,7 @@
       {
         "id": "c8be7815d57398f3",
         "type": "tabs",
-        "dimension": 46.12850082372323,
+        "dimension": 46.12850082372322,
         "children": [
           {
             "id": "198b0b0ae3682fa7",
@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "32ced4c2394580ed",
@@ -241,7 +241,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3387704184745923",
+  "active": "d5d537bcaae12a08",
   "lastOpenFiles": [
     "daily notes/2024-11-30.md",
     "markmind/MINDMAP.md",
