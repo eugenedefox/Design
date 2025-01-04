@@ -30,8 +30,21 @@
               "icon": "excalidraw-icon",
               "title": "Аналитика"
             }
+          },
+          {
+            "id": "9c577d4669e9d862",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Фрилансеры.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Фрилансеры"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -251,10 +264,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5d7785475ecfd681",
+  "active": "9c577d4669e9d862",
   "lastOpenFiles": [
-    "Excalidraw/Аналитика.md",
+    "Excalidraw/Фрилансеры.md",
     "Untitled mindmap.md",
+    "Excalidraw/Аналитика.md",
     "Source/Pasted Image 20250104182001_287.png",
     "Source/Pasted Image 20250104181900_374.png",
     "markmind/сайт на подобии чат рулетки.md",
