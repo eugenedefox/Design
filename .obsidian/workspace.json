@@ -31,8 +31,7 @@
               "title": "Аналитика"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,10 +251,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6453b9c60ad66161",
+  "active": "5d7785475ecfd681",
   "lastOpenFiles": [
-    "Untitled mindmap.md",
     "Excalidraw/Аналитика.md",
+    "Untitled mindmap.md",
     "Source/Pasted Image 20250104182001_287.png",
     "Source/Pasted Image 20250104181900_374.png",
     "markmind/сайт на подобии чат рулетки.md",
