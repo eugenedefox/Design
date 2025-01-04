@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1736018250518,
+      "items": [],
+      "title": "На данный момент"
+    },
+    {
+      "type": "file",
+      "ctime": 1736018252720,
+      "path": "Excalidraw/Фрилансеры.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1736018307989,
+      "path": "Excalidraw/Аналитика.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1736018315901,
+      "path": "Untitled mindmap.md",
+      "title": "знакомства/сайт"
+    }
+  ]
+}

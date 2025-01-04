@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "4f6ef6723f4dd9e8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-04 21.45.10.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-04 21.45.10.excalidraw"
+            }
+          },
+          {
             "id": "9c577d4669e9d862",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c8be7815d57398f3",
@@ -118,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.503475189209
+    "width": 258.503475189209,
+    "collapsed": true
   },
   "right": {
     "id": "550b9e8299955c0d",
@@ -241,8 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,18 +279,24 @@
   },
   "active": "9c577d4669e9d862",
   "lastOpenFiles": [
-    "Source/Pasted Image 20250104202932_353.png",
-    "Untitled mindmap.md",
+    "Excalidraw/Drawing 2025-01-04 21.45.10.excalidraw.md",
     "Excalidraw/Аналитика.md",
+    "Untitled mindmap.md",
     "Excalidraw/Фрилансеры.md",
+    "Source/Pasted Image 20250104214928_429.png",
+    "Source/Pasted Image 20250104214810_839.png",
+    "Source/Pasted Image 20250104214716_889.png",
+    "Source/Pasted Image 20250104214530_062.png",
+    "Untitled 1.md",
+    "сайт знакомств",
+    "Untitled.md",
+    "Source/Pasted Image 20250104202932_353.png",
     "Source/Pasted Image 20250104182001_287.png",
     "Source/Pasted Image 20250104181900_374.png",
     "markmind/сайт на подобии чат рулетки.md",
-    "Untitled 1.md",
     "markmind/Сайт.md",
     "облако текста.md",
     "Цветовая палитра.md",
-    "Untitled.md",
     "markmind/Untitled mindmap 1.md",
     "daily notes/2024-11-30.md",
     "Шрифты.md",
@@ -293,25 +312,18 @@
     "Excalidraw/Сartoon.md",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "podCS.md",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
-    "Upscayl.md",
     "markmind",
     "template",
     "daily notes",
-    "Source/Pasted Image 20241230235906_617.png",
-    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Дизайн TEEPUBLIC",
     "Звук для таймера/spongebob-fail.mp3",
     "Звук для таймера",
     "Новая папка",
-    "Source/Pasted Image 20241230222827_475 1.png",
-    "Source/Jellyfish (1).mp3",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
