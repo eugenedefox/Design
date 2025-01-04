@@ -1,35 +1,23 @@
-# [[Поиск ниши]]
-- [[PodCS]]
-- [[BubbleSpidder]]
-- [[Google Trends]]
+---
+mindmap-plugin: rich
+---
 
-# [[Создание Prompt]]
-- [[Gemini]]
-- [[ChatGPT]]
+# Root
+``` json
+{"theme":"green2","mindData":[[{"id":"08c9231b-c81b-3503","text":"Поиск ниши","isRoot":true,"main":true,"x":3993,"y":3780,"isExpand":true,"layout":{"layoutName":"tree","direct":"down"},"stroke":"rgb(83,175,128)","icons":[{"type":"avatar","name":"2"}],"style":{"background-color":"#43A047","color":"#fff","border-color":"transparent","border-width":0,"padding":[18,14,18,14],"font-size":"18","stroke":"rgb(83,175,128)"}},{"id":"8657a460-565f-6072","text":"pod cs","stroke":"rgb(83,175,128)","style":{"background-color":"#F0F4C3","color":"rgb(83,175,128)","border-color":"transparent","border-width":0,"padding":[9,14,8,14],"font-size":"14"},"x":3950,"y":3891,"layout":null,"isExpand":true,"pid":"08c9231b-c81b-3503"},{"id":"e24fec21-50d1-3dbd","text":"bubble spider","stroke":"rgb(83,175,128)","style":{"background-color":"#F0F4C3","color":"rgb(83,175,128)","border-color":"transparent","border-width":0,"padding":[9,14,8,14],"font-size":"14"},"x":4008,"y":3891,"layout":null,"isExpand":true,"pid":"08c9231b-c81b-3503"},{"id":"f8ad24c2-896f-cd1d","text":"google trends","stroke":"rgb(83,175,128)","style":{"background-color":"#F0F4C3","color":"rgb(83,175,128)","border-color":"transparent","border-width":0,"padding":[9,14,8,14],"font-size":"14"},"x":4101,"y":3891,"layout":null,"isExpand":true,"pid":"08c9231b-c81b-3503"}],[{"id":"fe16eda3-e98d-09d0","text":"Создание prompt","main":false,"x":4264,"y":3781,"icons":[],"stroke":"rgb(83,175,128)","layout":{"layoutName":"tree","direct":"down"},"isExpand":true,"style":{"background-color":"#F0F4C3","font-size":"14","color":"rgb(83,175,128)","border-color":"transparent","border-width":0,"padding":[9,14,8,14],"stroke":"rgb(83,175,128)"}},{"id":"9a8fcd1d-919a-2e01","text":"gemini","stroke":"rgb(83,175,128)","style":{"background-color":"#43A047","color":"#fff","border-color":"transparent","border-width":0,"padding":[6,10,5,10],"font-size":"12"},"x":4266,"y":3887,"layout":null,"isExpand":true,"pid":"fe16eda3-e98d-09d0"},{"id":"4708ed07-a4b6-26d9","text":"chat gpt","stroke":"rgb(83,175,128)","style":{"background-color":"#43A047","color":"#fff","border-color":"transparent","border-width":0,"padding":[6,10,5,10],"font-size":"12"},"x":4330,"y":3887,"layout":null,"isExpand":true,"pid":"fe16eda3-e98d-09d0"}],[{"id":"06ae2312-ae43-b8eb","text":"искусственный интеллект","main":false,"x":4074,"y":4023,"stroke":"rgb(83,175,128)","layout":{"layoutName":"tree","direct":"down"},"isExpand":true,"style":{"background-color":"#F0F4C3","color":"rgb(83,175,128)","border-color":"transparent","border-width":0,"padding":[9,14,8,14],"font-size":"14","stroke":"rgb(83,175,128)"}},{"id":"c4f25b5e-cc2e-b84b","text":"[[LEONARDO]]","stroke":"rgb(83,175,128)","style":{"background-color":"#43A047","color":"#fff","border-color":"transparent","border-width":0,"padding":[6,10,5,10],"font-size":"12"},"x":3969.5,"y":4129,"layout":null,"isExpand":true,"pid":"06ae2312-ae43-b8eb"},{"id":"3d4fb18e-8ae3-2c7a","text":"[[ideogram]]","stroke":"rgb(83,175,128)","style":{"background-color":"#43A047","color":"#fff","border-color":"transparent","border-width":0,"padding":[6,10,5,10],"font-size":"12"},"x":4047.5,"y":4129,"layout":null,"isExpand":true,"pid":"06ae2312-ae43-b8eb"},{"id":"3c42b635-e9e8-b44b","text":"[[Recraft]]","stroke":"rgb(83,175,128)","style":{"background-color":"#43A047","color":"#fff","border-color":"transparent","border-width":0,"padding":[6,10,5,10],"font-size":"12"},"x":4123.5,"y":4129,"layout":null,"isExpand":true,"pid":"06ae2312-ae43-b8eb"},{"id":"e7822573-6d84-19f3","text":"[[playground ai]]","stroke":"rgb(83,175,128)","style":{"background-color":"#43A047","color":"#fff","border-color":"transparent","border-width":0,"padding":[6,10,5,10],"font-size":"12"},"x":4195.5,"y":4129,"layout":null,"isExpand":true,"pid":"06ae2312-ae43-b8eb"},{"id":"cd9ccd86-b79c-18b5","text":"[[phygital]]","stroke":"rgb(83,175,128)","style":{"background-color":"#43A047","color":"#fff","border-color":"transparent","border-width":0,"padding":[6,10,5,10],"font-size":"12"},"x":4291.5,"y":4129,"layout":null,"isExpand":true,"pid":"06ae2312-ae43-b8eb"}]],"induceData":[],"wireFrameData":[],"relateLinkData":[],"calloutData":[],"opt":{"background":"#263238","fontFamily":"","fontSize":16}}
+```
 
-# [[Создание дизайна]]
-- [[Из облака слов]]
-    - [[WordCloud]]
-- [[Искусственный интеллект]]
-    - [[Leonardo]]
-    - [[Ideogram]]
-    - [[Recraft]]
-    - [[Playground Ai]]
-    - [[Phygital]]
-    -
 
-# [[Удаление недочётов изображения]]
-- [[Adobe Photoshop]]
+### node element start
 
-# [[Увеличение изображения]]
-- [[Растровое]]
-    - [[Adobe Photoshop]]
-- [[Векторное]]
-    - [[Vectorizer IO ]]
-    - [[Upscayl]]
+[[LEONARDO]] ^c4f25b5e-cc2e-b84b
 
-##[[Шрифты]]
-- [[Google FontsGoogle Fonts]]
+[[ideogram]] ^3d4fb18e-8ae3-2c7a
 
-# [[Цветовая палитра]]
-  - [[coolors]]
+[[Recraft]] ^3c42b635-e9e8-b44b
+
+[[playground ai]] ^e7822573-6d84-19f3
+
+[[phygital]] ^cd9ccd86-b79c-18b5
+
+### node element end
