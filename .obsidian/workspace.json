@@ -13,13 +13,26 @@
             "state": {
               "type": "mindmapview",
               "state": {
-                "file": "markmind/сайт на подобии чат рулетки.md"
+                "file": "Untitled mindmap.md"
               },
               "icon": "blocks",
-              "title": "сайт на подобии чат рулетки"
+              "title": "Untitled mindmap"
+            }
+          },
+          {
+            "id": "6453b9c60ad66161",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Аналитика.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Аналитика"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,17 +252,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5d7785475ecfd681",
+  "active": "6453b9c60ad66161",
   "lastOpenFiles": [
-    "markmind/Сайт.md",
+    "Untitled mindmap.md",
+    "Excalidraw/Аналитика.md",
+    "Source/Pasted Image 20250104182001_287.png",
+    "Source/Pasted Image 20250104181900_374.png",
     "markmind/сайт на подобии чат рулетки.md",
+    "Untitled 1.md",
+    "markmind/Сайт.md",
     "облако текста.md",
     "Цветовая палитра.md",
     "Untitled.md",
     "markmind/Untitled mindmap 1.md",
     "daily notes/2024-11-30.md",
     "Шрифты.md",
-    "Untitled mindmap.md",
     "Дизайн TEEPUBLIC/PRojects.md",
     "Дизайн TEEPUBLIC/хуй.md",
     "Source/Pasted Image 20241230222827_475.png",
@@ -268,9 +285,6 @@
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
     "Upscayl.md",
     "BubbleSpidder.md",
-    "Дизайн Mindmap.md",
-    "Создание дизайна.md",
-    "markmind/DESIGN.md",
     "markmind",
     "template",
     "daily notes",
@@ -284,8 +298,6 @@
     "Звук для таймера",
     "Новая папка",
     "Source/Pasted Image 20241230222827_475 1.png",
-    "Source/4b0c6726-22b3-4180-904f-be8430dcbd90.jpg",
-    "Source/76J1 1.gif",
     "Source/Jellyfish (1).mp3",
     "Untitled.canvas",
     "Untitled 1.canvas",
