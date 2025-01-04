@@ -1,7 +1,7 @@
 {
   "canvasSize": 8000,
   "headLevel": 2,
-  "fontSize": 16,
+  "fontSize": 18,
   "background": "transparent",
   "layout": "mindmap",
   "layoutDirect": "right",
@@ -19,5 +19,7 @@
   "setup": 1735611286078,
   "supportPDF": true,
   "autoCreateNodeWhenAnnotate": false,
-  "pasteFolder": "source"
+  "pasteFolder": "source",
+  "useAnimate": true,
+  "autoOpenSearch": true
 }
