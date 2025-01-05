@@ -11,43 +11,30 @@
             "id": "6453b9c60ad66161",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "markmind/сайт на подобии чат рулетки.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Untitled mindmap.md"
               },
-              "icon": "lucide-file",
-              "title": "сайт на подобии чат рулетки"
-            }
-          },
-          {
-            "id": "4f6ef6723f4dd9e8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-04 21.45.10.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-04 21.45.10.excalidraw"
+              "icon": "blocks",
+              "title": "Untitled mindmap"
             }
           },
           {
             "id": "9c577d4669e9d862",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Фрилансеры.md"
+                "file": "Дизайн TEEPUBLIC/PRojects.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Фрилансеры"
+              "icon": "lucide-file",
+              "title": "PRojects"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c8be7815d57398f3",
@@ -267,14 +255,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4f6ef6723f4dd9e8",
+  "active": "6453b9c60ad66161",
   "lastOpenFiles": [
     "markmind/сайт на подобии чат рулетки.md",
-    "Excalidraw/Drawing 2025-01-04 21.45.10.excalidraw.md",
-    "Excalidraw/Фрилансеры.md",
-    "markmind/Сайт.md",
-    "Excalidraw/Аналитика.md",
     "Untitled mindmap.md",
+    "Дизайн TEEPUBLIC/PRojects.md",
+    "markmind/Сайт.md",
+    "Дизайн TEEPUBLIC/хуй.md",
+    "daily notes/2024-12-31.md",
+    "daily notes/2024-12-30.md",
+    "daily notes/2024-11-30.md",
+    "Excalidraw/Фрилансеры.md",
+    "Excalidraw/Drawing 2025-01-04 21.45.10.excalidraw.md",
+    "Excalidraw/Аналитика.md",
     "Source/Pasted Image 20250104214928_429.png",
     "Source/Pasted Image 20250104214810_839.png",
     "Source/Pasted Image 20250104214716_889.png",
@@ -288,10 +281,7 @@
     "облако текста.md",
     "Цветовая палитра.md",
     "markmind/Untitled mindmap 1.md",
-    "daily notes/2024-11-30.md",
     "Шрифты.md",
-    "Дизайн TEEPUBLIC/PRojects.md",
-    "Дизайн TEEPUBLIC/хуй.md",
     "Source/Pasted Image 20241230222827_475.png",
     "Быстрый старт в Obsidian.md",
     "Создание Prompt.md",
@@ -304,7 +294,6 @@
     "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "podCS.md",
-    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
     "markmind",
     "template",
     "daily notes",
