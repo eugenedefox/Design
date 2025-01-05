@@ -1,6 +1,6 @@
 ---
-
-mindmap-plugin: rich
+mindmap:basic
+display-mode:: TypeOutline:
 
 ---
 

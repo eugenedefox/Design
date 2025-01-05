@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d7785475ecfd681",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-04 21.45.10.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-04 21.45.10.excalidraw"
-            }
-          },
-          {
             "id": "6453b9c60ad66161",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Аналитика.md"
+                "file": "markmind/сайт на подобии чат рулетки.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Аналитика"
+              "icon": "lucide-file",
+              "title": "сайт на подобии чат рулетки"
             }
           },
           {
@@ -56,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,8 +100,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "c8be7815d57398f3",
@@ -131,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.503475189209,
-    "collapsed": true
+    "width": 258.503475189209
   },
   "right": {
     "id": "550b9e8299955c0d",
@@ -255,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,12 +267,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9c577d4669e9d862",
+  "active": "4f6ef6723f4dd9e8",
   "lastOpenFiles": [
+    "markmind/сайт на подобии чат рулетки.md",
     "Excalidraw/Drawing 2025-01-04 21.45.10.excalidraw.md",
-    "Untitled mindmap.md",
-    "Excalidraw/Аналитика.md",
     "Excalidraw/Фрилансеры.md",
+    "markmind/Сайт.md",
+    "Excalidraw/Аналитика.md",
+    "Untitled mindmap.md",
     "Source/Pasted Image 20250104214928_429.png",
     "Source/Pasted Image 20250104214810_839.png",
     "Source/Pasted Image 20250104214716_889.png",
@@ -293,8 +285,6 @@
     "Source/Pasted Image 20250104202932_353.png",
     "Source/Pasted Image 20250104182001_287.png",
     "Source/Pasted Image 20250104181900_374.png",
-    "markmind/сайт на подобии чат рулетки.md",
-    "markmind/Сайт.md",
     "облако текста.md",
     "Цветовая палитра.md",
     "markmind/Untitled mindmap 1.md",
