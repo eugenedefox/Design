@@ -11,30 +11,28 @@
             "id": "6453b9c60ad66161",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "excalidraw",
               "state": {
-                "file": "Untitled mindmap.md"
+                "file": "Excalidraw/Фрилансеры.md"
               },
-              "icon": "blocks",
-              "title": "Untitled mindmap"
+              "icon": "excalidraw-icon",
+              "title": "Фрилансеры"
             }
           },
           {
             "id": "9c577d4669e9d862",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Дизайн TEEPUBLIC/PRojects.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Фрилансеры.md"
               },
-              "icon": "lucide-file",
-              "title": "PRojects"
+              "icon": "excalidraw-icon",
+              "title": "Фрилансеры"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,19 +253,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6453b9c60ad66161",
+  "active": "9c577d4669e9d862",
   "lastOpenFiles": [
-    "markmind/сайт на подобии чат рулетки.md",
+    "Excalidraw/Аналитика.md",
     "Untitled mindmap.md",
+    "Excalidraw/Фрилансеры.md",
     "Дизайн TEEPUBLIC/PRojects.md",
+    "markmind/сайт на подобии чат рулетки.md",
     "markmind/Сайт.md",
     "Дизайн TEEPUBLIC/хуй.md",
     "daily notes/2024-12-31.md",
     "daily notes/2024-12-30.md",
     "daily notes/2024-11-30.md",
-    "Excalidraw/Фрилансеры.md",
     "Excalidraw/Drawing 2025-01-04 21.45.10.excalidraw.md",
-    "Excalidraw/Аналитика.md",
     "Source/Pasted Image 20250104214928_429.png",
     "Source/Pasted Image 20250104214810_839.png",
     "Source/Pasted Image 20250104214716_889.png",
