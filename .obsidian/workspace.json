@@ -30,9 +30,21 @@
               "icon": "excalidraw-icon",
               "title": "Фрилансеры"
             }
+          },
+          {
+            "id": "021135ad100373cc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Cравнение тарифных планов нейронок.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Cравнение тарифных планов нейронок"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,8 +97,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "c8be7815d57398f3",
@@ -253,11 +264,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9c577d4669e9d862",
+  "active": "021135ad100373cc",
   "lastOpenFiles": [
+    "Source/Pasted Image 20250106212339_795.png",
+    "Source/Pasted Image 20250106212136_886.png",
+    "Source/Pasted Image 20250106211652_526.png",
+    "Excalidraw/Фрилансеры.md",
+    "Excalidraw/Cравнение тарифных планов нейронок.md",
     "Excalidraw/Аналитика.md",
     "Untitled mindmap.md",
-    "Excalidraw/Фрилансеры.md",
     "Дизайн TEEPUBLIC/PRojects.md",
     "markmind/сайт на подобии чат рулетки.md",
     "markmind/Сайт.md",
@@ -285,13 +300,9 @@
     "Создание Prompt.md",
     "ПОИСК НИШИ.md",
     "Excalidraw/Для дизайна teepublic.excalidraw.md",
-    "Source/Pasted image 20241231060310.png",
     "markmind/Design mindmap.md",
     "Excalidraw/Сartoon.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
-    "podCS.md",
     "markmind",
     "template",
     "daily notes",
