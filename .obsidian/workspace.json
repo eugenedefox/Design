@@ -49,13 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Промпты.md",
+                "file": "Создание дизайна.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Промпты"
+              "title": "Создание дизайна"
             }
           }
         ],
@@ -112,7 +112,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c8be7815d57398f3",
@@ -279,15 +280,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "198b0b0ae3682fa7",
+  "active": "f2898abef3103c59",
   "lastOpenFiles": [
+    "Создание Prompt.md",
+    "Excalidraw/Фрилансеры.md",
+    "Промпты.md",
     "daily notes/2025-01-07.md",
     "Excalidraw/Cравнение тарифных планов нейронок.md",
-    "Промпты.md",
     "Source/Pasted Image 20250106212339_795.png",
     "Source/Pasted Image 20250106212136_886.png",
     "Source/Pasted Image 20250106211652_526.png",
-    "Excalidraw/Фрилансеры.md",
     "Excalidraw/Аналитика.md",
     "Untitled mindmap.md",
     "Дизайн TEEPUBLIC/PRojects.md",
@@ -313,7 +315,6 @@
     "markmind/Untitled mindmap 1.md",
     "Шрифты.md",
     "Быстрый старт в Obsidian.md",
-    "Создание Prompt.md",
     "ПОИСК НИШИ.md",
     "Excalidraw/Для дизайна teepublic.excalidraw.md",
     "markmind/Design mindmap.md",
