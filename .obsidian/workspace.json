@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -321,12 +321,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1e93b6c7c28e0086",
+  "active": "7348a6661a2ad3fa",
   "lastOpenFiles": [
+    "Source/Pasted image 20250117173520.png",
+    "Excalidraw/nordy.excalidraw.md",
     "Source/Pasted Image 20250117071010_373.png",
     "Source/Pasted Image 20250117070911_825.png",
     "Openpose.md",
-    "Excalidraw/nordy.excalidraw.md",
     "Вопросы к себе перед созданием дизайна.md",
     "Создание дизайна.md",
     "Создание Prompt.md",
@@ -355,7 +356,6 @@
     "сайт знакомств",
     "Untitled.md",
     "Source/Pasted Image 20250104202932_353.png",
-    "Source/Pasted Image 20250104182001_287.png",
     "облако текста.md",
     "Цветовая палитра.md",
     "markmind/Untitled mindmap 1.md",
