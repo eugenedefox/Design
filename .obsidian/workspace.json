@@ -6,38 +6,58 @@
       {
         "id": "1e078c1a510b35cc",
         "type": "tabs",
+        "dimension": 60.681114551083596,
         "children": [
           {
             "id": "1e93b6c7c28e0086",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "markmind/nordy.md"
-              },
-              "icon": "blocks",
-              "title": "nordy"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4991d3e601ecf30e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "25e55d155893ec14",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2025-01-17.md",
+                "file": "nordy main.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-17"
+              "title": "nordy main"
+            }
+          },
+          {
+            "id": "ab6a7f88598e1c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QR codes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QR codes"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6f443cf32dbdd180",
+        "type": "tabs",
+        "dimension": 39.318885448916404,
+        "children": [
+          {
+            "id": "dca9f6e902024404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily notes/2025-01-18.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-18"
             }
           }
         ]
@@ -177,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2024-11-30.md"
+                "file": "daily notes/2025-01-18.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-30"
+              "title": "Outline of 2025-01-18"
             }
           },
           {
@@ -214,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "32ced4c2394580ed",
@@ -237,8 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,13 +279,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "25e55d155893ec14",
+  "active": "198b0b0ae3682fa7",
   "lastOpenFiles": [
+    "nordy main.md",
+    "Source/Pasted image 20250118011207.png",
+    "Source/Pasted image 20250118010741.png",
+    "Source/Pasted image 20250118010142.png",
+    "Source/Pasted image 20250118005145.png",
+    "Source/Pasted image 20250118005053.png",
+    "Source/Pasted image 20250118005044.png",
+    "QR codes.md",
+    "daily notes/2025-01-18.md",
+    "Source/Pasted image 20250118003819.png",
+    "Source/Pasted image 20250118003204.png",
     "markmind/nordy.md",
     "daily notes/2025-01-17.md",
     "ресурсы для моделей.md",
-    "QR codes.md",
-    "nordy main.md",
     "Source/Pasted image 20250117232905.png",
     "Source/Pasted image 20250117225133.png",
     "Hotkeys.md",
@@ -279,25 +307,15 @@
     "Excalidraw/nordy.excalidraw.md",
     "Вопросы к себе перед созданием дизайна.md",
     "Openpose.md",
-    "Source/Pasted image 20250117173520.png",
-    "Source/Pasted Image 20250117071010_373.png",
-    "Source/Pasted Image 20250117070911_825.png",
     "Создание Prompt.md",
     "Промпты.md",
     "daily notes/2025-01-07.md",
-    "Source/Pasted Image 20250106212339_795.png",
-    "Source/Pasted Image 20250106212136_886.png",
-    "Source/Pasted Image 20250106211652_526.png",
     "Excalidraw/Аналитика.md",
     "Untitled mindmap.md",
     "Дизайн TEEPUBLIC/PRojects.md",
     "markmind/сайт на подобии чат рулетки.md",
     "markmind/Сайт.md",
     "Дизайн TEEPUBLIC/хуй.md",
-    "daily notes/2024-12-31.md",
-    "daily notes/2024-12-30.md",
-    "Source/Pasted Image 20250104214928_429.png",
-    "Source/Pasted Image 20250104214810_839.png",
     "сайт знакомств",
     "markmind",
     "template",
