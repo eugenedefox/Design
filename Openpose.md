@@ -6,4 +6,9 @@ https://comfyuiweb.com/ru#ai-image-generator
 Сервис даёт 600 кредитов и вроде как рабочий Openpos
 [nordy самый перспективный пока ИМБА](https://nordy.ai/)
 
+ИНСТРУКЦИЯ:
+
+https://comfyui101.nordy.ai/d0b171cd-a3d4-4585-ae48-9515f00d4094
+
+
 18500 кредитов 
