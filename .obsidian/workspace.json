@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nordy main.md",
+                "file": "Hotkeys.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nordy main"
+              "title": "Hotkeys"
             }
           }
         ]
@@ -243,10 +243,10 @@
   },
   "active": "1e93b6c7c28e0086",
   "lastOpenFiles": [
-    "Обучение ComfyUi в виде игры.md",
     "nordy main.md",
-    "markmind/nordy.md",
     "Hotkeys.md",
+    "Обучение ComfyUi в виде игры.md",
+    "markmind/nordy.md",
     "Excalidraw/Фрилансеры.md",
     "isometry.md",
     "Excalidraw/Cравнение тарифных планов нейронок.md",
