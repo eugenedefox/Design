@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hotkeys.md",
+                "file": "nordy main.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hotkeys"
+              "title": "nordy main"
             }
           }
         ]
@@ -243,10 +243,11 @@
   },
   "active": "1e93b6c7c28e0086",
   "lastOpenFiles": [
+    "Обучение ComfyUi в виде игры.md",
     "nordy main.md",
+    "markmind/nordy.md",
     "Hotkeys.md",
     "Excalidraw/Фрилансеры.md",
-    "markmind/nordy.md",
     "isometry.md",
     "Excalidraw/Cравнение тарифных планов нейронок.md",
     "Создание дизайна.md",
@@ -278,7 +279,6 @@
     "Source/Pasted Image 20250104214810_839.png",
     "Source/Pasted Image 20250104214716_889.png",
     "Source/Pasted Image 20250104214530_062.png",
-    "Untitled 1.md",
     "сайт знакомств",
     "markmind",
     "template",
