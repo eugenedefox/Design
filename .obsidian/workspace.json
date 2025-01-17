@@ -20,6 +20,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "4991d3e601ecf30e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25e55d155893ec14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily notes/2025-01-17.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-17"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,10 +260,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1e93b6c7c28e0086",
+  "active": "25e55d155893ec14",
   "lastOpenFiles": [
-    "ресурсы для моделей.md",
     "markmind/nordy.md",
+    "daily notes/2025-01-17.md",
+    "ресурсы для моделей.md",
     "QR codes.md",
     "nordy main.md",
     "Source/Pasted image 20250117232905.png",
@@ -273,7 +296,6 @@
     "Дизайн TEEPUBLIC/хуй.md",
     "daily notes/2024-12-31.md",
     "daily notes/2024-12-30.md",
-    "daily notes/2024-11-30.md",
     "Source/Pasted Image 20250104214928_429.png",
     "Source/Pasted Image 20250104214810_839.png",
     "сайт знакомств",
