@@ -11,15 +11,12 @@
             "id": "1e93b6c7c28e0086",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "Hotkeys.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "markmind/nordy.md"
               },
-              "icon": "lucide-file",
-              "title": "Hotkeys"
+              "icon": "blocks",
+              "title": "nordy"
             }
           }
         ]
@@ -243,15 +240,18 @@
   },
   "active": "1e93b6c7c28e0086",
   "lastOpenFiles": [
+    "ресурсы для моделей.md",
+    "markmind/nordy.md",
+    "QR codes.md",
     "nordy main.md",
+    "Source/Pasted image 20250117232905.png",
+    "Source/Pasted image 20250117225133.png",
     "Hotkeys.md",
     "Обучение ComfyUi в виде игры.md",
-    "markmind/nordy.md",
     "Excalidraw/Фрилансеры.md",
     "isometry.md",
     "Excalidraw/Cравнение тарифных планов нейронок.md",
     "Создание дизайна.md",
-    "QR codes.md",
     "markmind/nordyAI.md",
     "Excalidraw/nordy.excalidraw.md",
     "Вопросы к себе перед созданием дизайна.md",
@@ -274,11 +274,8 @@
     "daily notes/2024-12-31.md",
     "daily notes/2024-12-30.md",
     "daily notes/2024-11-30.md",
-    "Excalidraw/Drawing 2025-01-04 21.45.10.excalidraw.md",
     "Source/Pasted Image 20250104214928_429.png",
     "Source/Pasted Image 20250104214810_839.png",
-    "Source/Pasted Image 20250104214716_889.png",
-    "Source/Pasted Image 20250104214530_062.png",
     "сайт знакомств",
     "markmind",
     "template",
