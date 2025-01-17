@@ -87,9 +87,21 @@
               "icon": "lucide-file",
               "title": "Openpose"
             }
+          },
+          {
+            "id": "1e93b6c7c28e0086",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/nordy.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "nordy.excalidraw"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,8 +154,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "c8be7815d57398f3",
@@ -310,10 +321,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7348a6661a2ad3fa",
+  "active": "1e93b6c7c28e0086",
   "lastOpenFiles": [
-    "Вопросы к себе перед созданием дизайна.md",
+    "Source/Pasted Image 20250117071010_373.png",
+    "Source/Pasted Image 20250117070911_825.png",
     "Openpose.md",
+    "Excalidraw/nordy.excalidraw.md",
+    "Вопросы к себе перед созданием дизайна.md",
     "Создание дизайна.md",
     "Создание Prompt.md",
     "Excalidraw/Фрилансеры.md",
@@ -342,13 +356,10 @@
     "Untitled.md",
     "Source/Pasted Image 20250104202932_353.png",
     "Source/Pasted Image 20250104182001_287.png",
-    "Source/Pasted Image 20250104181900_374.png",
     "облако текста.md",
     "Цветовая палитра.md",
     "markmind/Untitled mindmap 1.md",
     "Шрифты.md",
-    "Быстрый старт в Obsidian.md",
-    "ПОИСК НИШИ.md",
     "markmind",
     "template",
     "daily notes",
