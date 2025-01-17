@@ -72,9 +72,24 @@
               "icon": "lucide-file",
               "title": "Вопросы к себе перед созданием дизайна"
             }
+          },
+          {
+            "id": "7348a6661a2ad3fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Openpose.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Openpose"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -295,10 +310,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ff4804d5c3c54d38",
+  "active": "7348a6661a2ad3fa",
   "lastOpenFiles": [
-    "Создание дизайна.md",
     "Вопросы к себе перед созданием дизайна.md",
+    "Openpose.md",
+    "Создание дизайна.md",
     "Создание Prompt.md",
     "Excalidraw/Фрилансеры.md",
     "Промпты.md",
@@ -333,7 +349,6 @@
     "Шрифты.md",
     "Быстрый старт в Obsidian.md",
     "ПОИСК НИШИ.md",
-    "Excalidraw/Для дизайна teepublic.excalidraw.md",
     "markmind",
     "template",
     "daily notes",
