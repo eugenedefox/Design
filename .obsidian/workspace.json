@@ -23,18 +23,15 @@
             }
           },
           {
-            "id": "66f6206f38a7172a",
+            "id": "f743df00d96c1116",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "daily notes/2025-01-18.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/мудборд.md"
               },
-              "icon": "lucide-file",
-              "title": "2025-01-18"
+              "icon": "excalidraw-icon",
+              "title": "мудборд"
             }
           },
           {
@@ -190,10 +187,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2025-01-18.md"
+                "file": "Excalidraw/мудборд.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-18"
+              "title": "Outline of мудборд"
             }
           },
           {
@@ -272,12 +269,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "66f6206f38a7172a",
+  "active": "f743df00d96c1116",
   "lastOpenFiles": [
-    "Инфлюенсеры по AI.md",
+    "Source/Pasted Image 20250118233823_621.png",
+    "Source/Pasted Image 20250118233538_893.png",
     "nordy main.md",
     "QR codes.md",
+    "Untitled.md",
+    "Untitled mindmap.md",
+    "Untitled 1.md",
+    "Upscayl.md",
     "daily notes/2025-01-18.md",
+    "Excalidraw/мудборд.md",
+    "Source/Pasted Image 20250118233336_101.png",
+    "мудборд.md",
+    "стоки.md",
+    "Инфлюенсеры по AI.md",
     "Source/Pasted image 20250118011207.png",
     "Source/Pasted image 20250118010741.png",
     "Source/Pasted image 20250118010142.png",
@@ -289,8 +296,6 @@
     "markmind/nordy.md",
     "daily notes/2025-01-17.md",
     "ресурсы для моделей.md",
-    "Source/Pasted image 20250117232905.png",
-    "Source/Pasted image 20250117225133.png",
     "Hotkeys.md",
     "Обучение ComfyUi в виде игры.md",
     "Excalidraw/Фрилансеры.md",
@@ -302,14 +307,6 @@
     "Вопросы к себе перед созданием дизайна.md",
     "Openpose.md",
     "Создание Prompt.md",
-    "Промпты.md",
-    "daily notes/2025-01-07.md",
-    "Excalidraw/Аналитика.md",
-    "Untitled mindmap.md",
-    "Дизайн TEEPUBLIC/PRojects.md",
-    "markmind/сайт на подобии чат рулетки.md",
-    "markmind/Сайт.md",
-    "Дизайн TEEPUBLIC/хуй.md",
     "сайт знакомств",
     "markmind",
     "template",
