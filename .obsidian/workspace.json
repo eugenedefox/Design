@@ -197,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2025-01-18.md"
+                "file": "nordy main.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-18"
+              "title": "Outline of nordy main"
             }
           },
           {
@@ -234,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "32ced4c2394580ed",
@@ -279,7 +279,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "198b0b0ae3682fa7",
+  "active": "d5d537bcaae12a08",
   "lastOpenFiles": [
     "nordy main.md",
     "Source/Pasted image 20250118011207.png",
