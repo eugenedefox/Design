@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Промпты.md",
+                "file": "nordy main.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Промпты"
+              "title": "nordy main"
             }
           }
         ],
@@ -120,8 +120,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "9c07ffe9eede7cee",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "c8be7815d57398f3",
@@ -205,10 +216,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Промпты.md"
+                "file": "nordy main.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Промпты"
+              "title": "Outline of nordy main"
             }
           },
           {
@@ -289,6 +300,8 @@
   },
   "active": "c6632ef14852062e",
   "lastOpenFiles": [
+    "markmind/nordy.md",
+    "Промпты.md",
     "hotkey Illustrator.md",
     "Hotkeys nordy.ai.md",
     "Excalidraw/мудборд.md",
@@ -311,7 +324,6 @@
     "Source/Pasted image 20250118005053.png",
     "Source/Pasted image 20250118005044.png",
     "Source/Pasted image 20250118003819.png",
-    "markmind/nordy.md",
     "daily notes/2025-01-17.md",
     "ресурсы для моделей.md",
     "Обучение ComfyUi в виде игры.md",
