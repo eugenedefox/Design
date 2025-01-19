@@ -2,6 +2,7 @@
 
 IMP:
 Load Images
+![[Pasted image 20250119065410.png]]
 
 
 
