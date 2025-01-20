@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "prompts.excalidraw",
+      "path": "Excalidraw/prompts.excalidraw.md"
+    },
+    {
+      "basename": "Промпты",
+      "path": "Промпты.md"
+    },
+    {
       "basename": "Nordy main",
       "path": "Nordy main.md"
     },
@@ -21,10 +29,6 @@
       "path": "Excalidraw/Фрилансеры.md"
     },
     {
-      "basename": "prompts.excalidraw",
-      "path": "Excalidraw/prompts.excalidraw.md"
-    },
-    {
       "basename": "Сartoon",
       "path": "Excalidraw/Сartoon.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Cайт чат рулетки",
       "path": "Excalidraw/Cайт чат рулетки.md"
-    },
-    {
-      "basename": "Промпты",
-      "path": "Промпты.md"
     },
     {
       "basename": "Создание Prompt",

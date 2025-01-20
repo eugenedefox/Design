@@ -36,8 +36,21 @@
               "icon": "lucide-file",
               "title": "2025-01-20"
             }
+          },
+          {
+            "id": "7e9f98ee4d49450e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/prompts.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "prompts.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,10 +198,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nordy main.md"
+                "file": "Excalidraw/prompts.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Nordy main"
+              "title": "Outline of prompts.excalidraw"
             }
           },
           {
@@ -267,8 +280,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f743df00d96c1116",
+  "active": "7e9f98ee4d49450e",
   "lastOpenFiles": [
+    "Промпты.md",
+    "Nordy main.md",
     "markmind/nordy.md",
     "Инфлюенсеры по AI.md",
     "daily notes/2025-01-20.md",
@@ -280,9 +295,7 @@
     "Excalidraw/Аналитика.md",
     "Excalidraw/Для дизайна teepublic.excalidraw.md",
     "Excalidraw/Cайт чат рулетки.md",
-    "Промпты.md",
     "Создание Prompt.md",
-    "Nordy main.md",
     "QR codes.md",
     "Hotkeys nordy.ai.md",
     "Untitled.md",
