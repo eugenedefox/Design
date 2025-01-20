@@ -13,25 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2025-01-20.md",
+                "file": "Инфлюенсеры по AI.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-20"
-            }
-          },
-          {
-            "id": "1d462c57d92d711e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Фрилансеры.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Фрилансеры"
+              "title": "Инфлюенсеры по AI"
             }
           },
           {
@@ -49,8 +37,7 @@
               "title": "2025-01-20"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2025-01-20.md"
+                "file": "Инфлюенсеры по AI.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-20"
+              "title": "Outline of Инфлюенсеры по AI"
             }
           },
           {
@@ -279,11 +266,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7dae6c0f2f626737",
+  "active": "f743df00d96c1116",
   "lastOpenFiles": [
+    "daily notes/2025-01-20.md",
+    "Excalidraw/Фрилансеры.md",
     "Excalidraw/prompts.excalidraw.md",
     "Source/Pasted Image 20250120202642_279.png",
-    "Excalidraw/Фрилансеры.md",
     "Excalidraw/Сartoon.md",
     "Excalidraw/мудборд.md",
     "Excalidraw/Аналитика.md",
@@ -293,7 +281,6 @@
     "Создание Prompt.md",
     "nordy main.md",
     "QR codes.md",
-    "daily notes/2025-01-20.md",
     "Инфлюенсеры по AI.md",
     "Hotkeys nordy.ai.md",
     "Untitled.md",
