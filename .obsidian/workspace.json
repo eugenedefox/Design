@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -253,7 +253,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "32ced4c2394580ed",
@@ -298,11 +298,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ab6a7f88598e1c91",
+  "active": "c6632ef14852062e",
   "lastOpenFiles": [
+    "Source/Pasted image 20250120070729.png",
+    "Source/Pasted image 20250120070720.png",
+    "daily notes/2025-01-20.md",
     "QR codes.md",
     "nordy main.md",
-    "daily notes/2025-01-20.md",
     "Source/Pasted image 20250119065410.png",
     "markmind/nordy.md",
     "Промпты.md",
@@ -324,7 +326,6 @@
     "Source/Pasted image 20250118010142.png",
     "Source/Pasted image 20250118005145.png",
     "Source/Pasted image 20250118005053.png",
-    "Source/Pasted image 20250118005044.png",
     "daily notes/2025-01-17.md",
     "ресурсы для моделей.md",
     "Обучение ComfyUi в виде игры.md",
@@ -335,7 +336,6 @@
     "markmind/nordyAI.md",
     "Excalidraw/nordy.excalidraw.md",
     "Вопросы к себе перед созданием дизайна.md",
-    "Openpose.md",
     "сайт знакомств",
     "markmind",
     "template",

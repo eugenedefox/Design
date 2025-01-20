@@ -11,10 +11,15 @@ NewRealityAllinOne хорошо справился со скелетами
 [Lora но почему-то в моделях, рогатка](https://civitai.com/models/824950/stoiqo-afrodite-lora)
 [3d cartoon flux для игр, но слишком детская и пластиковая](https://civitai.com/models/662924/3d-cartoon-vision-flux)
 
+## Wildcards 
+На Flux Amateurphoto
 
+## Удаление фона 
 
+RMBG 2-0 не супер справляется по крайне мере с реализмом подрезает лапы лисе
+![[Pasted image 20250120070729.png]]
 
-
+c кривыми лучше уже режет лучше, но с ними перебор
 
 [Выгрузка множества вариантов через текстовый файл](https://www.youtube.com/watch?v=YR68lAhCFxg)
 
