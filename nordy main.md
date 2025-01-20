@@ -4,6 +4,7 @@ MOC
 
 ## Модели ComfyUI Civit
 
+NewRealityAllinOne хорошо справился со скелетами
 [Аниме с чибби](https://civitai.com/models/934628/animepro-flux)
 [детская модель](https://civitai.com/images/8920109)
 [sfw и nsfw OnlyFans](https://civitai.com/models/226533/iniverse-mixsfw-and-nsfw)
