@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-01-20",
-      "path": "daily notes/2025-01-20.md"
+      "basename": "prompts.excalidraw",
+      "path": "Excalidraw/prompts.excalidraw.md"
     },
     {
-      "basename": "Инфлюенсеры по AI",
-      "path": "Инфлюенсеры по AI.md"
+      "basename": "Фрилансеры",
+      "path": "Excalidraw/Фрилансеры.md"
+    },
+    {
+      "basename": "Сartoon",
+      "path": "Excalidraw/Сartoon.md"
+    },
+    {
+      "basename": "мудборд",
+      "path": "Excalidraw/мудборд.md"
+    },
+    {
+      "basename": "Аналитика",
+      "path": "Excalidraw/Аналитика.md"
+    },
+    {
+      "basename": "Для дизайна teepublic.excalidraw",
+      "path": "Excalidraw/Для дизайна teepublic.excalidraw.md"
+    },
+    {
+      "basename": "Cайт чат рулетки",
+      "path": "Excalidraw/Cайт чат рулетки.md"
+    },
+    {
+      "basename": "Промпты",
+      "path": "Промпты.md"
+    },
+    {
+      "basename": "Создание Prompt",
+      "path": "Создание Prompt.md"
     },
     {
       "basename": "nordy main",
@@ -15,6 +43,18 @@
     {
       "basename": "QR codes",
       "path": "QR codes.md"
+    },
+    {
+      "basename": "2025-01-20",
+      "path": "daily notes/2025-01-20.md"
+    },
+    {
+      "basename": "Инфлюенсеры по AI",
+      "path": "Инфлюенсеры по AI.md"
+    },
+    {
+      "basename": "Hotkeys nordy.ai",
+      "path": "Hotkeys nordy.ai.md"
     }
   ],
   "omittedPaths": [],
