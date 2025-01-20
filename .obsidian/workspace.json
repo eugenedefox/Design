@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nordy main.md",
+                "file": "daily notes/2025-01-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nordy main"
+              "title": "2025-01-20"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QR codes.md",
+                "file": "daily notes/2025-01-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QR codes"
+              "title": "2025-01-20"
             }
           },
           {
@@ -67,7 +67,8 @@
               "title": "nordy main"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,7 +253,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "32ced4c2394580ed",
@@ -297,8 +298,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1e93b6c7c28e0086",
+  "active": "ab6a7f88598e1c91",
   "lastOpenFiles": [
+    "QR codes.md",
+    "nordy main.md",
+    "daily notes/2025-01-20.md",
     "Source/Pasted image 20250119065410.png",
     "markmind/nordy.md",
     "Промпты.md",
@@ -307,8 +311,6 @@
     "Excalidraw/мудборд.md",
     "Source/Pasted Image 20250118233823_621.png",
     "Source/Pasted Image 20250118233538_893.png",
-    "nordy main.md",
-    "QR codes.md",
     "Untitled mindmap.md",
     "Untitled 1.md",
     "Upscayl.md",
@@ -323,7 +325,6 @@
     "Source/Pasted image 20250118005145.png",
     "Source/Pasted image 20250118005053.png",
     "Source/Pasted image 20250118005044.png",
-    "Source/Pasted image 20250118003819.png",
     "daily notes/2025-01-17.md",
     "ресурсы для моделей.md",
     "Обучение ComfyUi в виде игры.md",
