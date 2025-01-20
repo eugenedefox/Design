@@ -2,6 +2,7 @@
 
 MOC
 
+[[Инфлюенсеры по AI]]
 ## Модели ComfyUI Civit
 
 NewRealityAllinOne хорошо справился со скелетами
