@@ -6,6 +6,13 @@ MOC
 ## Модели ComfyUI Civit
 
 NewRealityAllinOne хорошо справился со скелетами
+### Для дизайна
+caricature-flux! 
+LORA
+[Для америки пойдёт типаб](https://civitai.com/models/1049734/ctai-filmore)
+[Иллюстрации](https://civitai.com/models/278626/box-series-trend-illustrationlessgreater) базовая 1.5
+![[Pasted image 20250121011459.png]]
+
 [Аниме с чибби](https://civitai.com/models/934628/animepro-flux)
 [детская модель](https://civitai.com/images/8920109)
 [sfw и nsfw OnlyFans](https://civitai.com/models/226533/iniverse-mixsfw-and-nsfw)

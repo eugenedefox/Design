@@ -41,12 +41,15 @@
             "id": "7e9f98ee4d49450e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/prompts.excalidraw.md"
+                "file": "Nordy main.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "prompts.excalidraw"
+              "icon": "lucide-file",
+              "title": "Nordy main"
             }
           }
         ],
@@ -198,10 +201,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/prompts.excalidraw.md"
+                "file": "Nordy main.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of prompts.excalidraw"
+              "title": "Outline of Nordy main"
             }
           },
           {
@@ -282,13 +285,14 @@
   },
   "active": "7e9f98ee4d49450e",
   "lastOpenFiles": [
+    "Source/Pasted image 20250121011459.png",
+    "Excalidraw/prompts.excalidraw.md",
     "Промпты.md",
     "Nordy main.md",
     "markmind/nordy.md",
     "Инфлюенсеры по AI.md",
     "daily notes/2025-01-20.md",
     "Excalidraw/Фрилансеры.md",
-    "Excalidraw/prompts.excalidraw.md",
     "Source/Pasted Image 20250120202642_279.png",
     "Excalidraw/Сartoon.md",
     "Excalidraw/мудборд.md",
