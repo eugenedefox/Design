@@ -1,5 +1,20 @@
 #comfyui
 
+MOC
+
+## Модели ComfyUI Civit
+
+[Аниме с чибби](https://civitai.com/models/934628/animepro-flux)
+[детская модель](https://civitai.com/images/8920109)
+[sfw и nsfw OnlyFans](https://civitai.com/models/226533/iniverse-mixsfw-and-nsfw)
+[Lora но почему-то в моделях, рогатка](https://civitai.com/models/824950/stoiqo-afrodite-lora)
+[3d cartoon flux для игр, но слишком детская и пластиковая](https://civitai.com/models/662924/3d-cartoon-vision-flux)
+
+
+
+
+
+
 [Выгрузка множества вариантов через текстовый файл](https://www.youtube.com/watch?v=YR68lAhCFxg)
 
 Load from dir не ворк

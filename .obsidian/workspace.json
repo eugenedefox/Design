@@ -67,8 +67,7 @@
               "title": "nordy main"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,7 +297,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d5d537bcaae12a08",
+  "active": "1e93b6c7c28e0086",
   "lastOpenFiles": [
     "Source/Pasted image 20250119065410.png",
     "markmind/nordy.md",
