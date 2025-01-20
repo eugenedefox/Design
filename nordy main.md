@@ -7,7 +7,12 @@ MOC
 
 NewRealityAllinOne хорошо справился со скелетами
 ### Для дизайна
-caricature-flux! 
+
+Florence => Описание изображения 
+
+DownloadAndLoadFlorence2Model -> Florence2Run -> Griptape Run: Agent
+
+caricature-flux! Подходит под модель, можно продавать изображения!
 LORA
 [Для америки пойдёт типаб](https://civitai.com/models/1049734/ctai-filmore)
 [Иллюстрации](https://civitai.com/models/278626/box-series-trend-illustrationlessgreater) базовая 1.5
