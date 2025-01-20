@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Nordy main",
+      "path": "Nordy main.md"
+    },
+    {
+      "basename": "nordy",
+      "path": "markmind/nordy.md"
+    },
+    {
       "basename": "Инфлюенсеры по AI",
       "path": "Инфлюенсеры по AI.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "Создание Prompt",
       "path": "Создание Prompt.md"
-    },
-    {
-      "basename": "nordy main",
-      "path": "nordy main.md"
     },
     {
       "basename": "QR codes",

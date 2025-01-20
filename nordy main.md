@@ -14,6 +14,9 @@ NewRealityAllinOne хорошо справился со скелетами
 
 ## Wildcards 
 На Flux Amateurphoto
+Нода Flux Prompt generator
+
+## Redux 
 
 ## Удаление фона 
 
