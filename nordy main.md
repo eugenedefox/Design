@@ -2,16 +2,18 @@
 
 MOC
 
+[[Промпты]]
 [[Инфлюенсеры по AI]]
 ## Модели ComfyUI Civit
+
+SDXL[ Envy Shadow Minimalism](https://civitai.com/models/234128/envy-shadow-minimalism-xl-01)
+
 
 NewRealityAllinOne хорошо справился со скелетами
 ### Для дизайна
 
+
 Florence => Описание изображения 
-
-DownloadAndLoadFlorence2Model -> Florence2Run -> Griptape Run: Agent
-
 caricature-flux! Подходит под модель, можно продавать изображения!
 LORA
 [Для америки пойдёт типаб](https://civitai.com/models/1049734/ctai-filmore)
