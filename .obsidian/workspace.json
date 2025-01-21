@@ -4,56 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1e078c1a510b35cc",
+        "id": "e4bb4f9b83e2918d",
         "type": "tabs",
         "children": [
           {
-            "id": "f743df00d96c1116",
+            "id": "370c2a6e058c1399",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nordy main.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Nordy main"
-            }
-          },
-          {
-            "id": "7dae6c0f2f626737",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily notes/2025-01-20.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-01-20"
-            }
-          },
-          {
-            "id": "7e9f98ee4d49450e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nordy main.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nordy main"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,11 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Nordy main.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Nordy main"
+              "title": "Outline"
             }
           },
           {
@@ -238,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "32ced4c2394580ed",
@@ -283,14 +245,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7e9f98ee4d49450e",
+  "active": "d5d537bcaae12a08",
   "lastOpenFiles": [
-    "Source/Pasted image 20250121011459.png",
     "Excalidraw/prompts.excalidraw.md",
-    "Промпты.md",
     "Nordy main.md",
-    "markmind/nordy.md",
     "Инфлюенсеры по AI.md",
+    "Source/Pasted image 20250121011459.png",
+    "Промпты.md",
+    "markmind/nordy.md",
     "daily notes/2025-01-20.md",
     "Excalidraw/Фрилансеры.md",
     "Source/Pasted Image 20250120202642_279.png",
@@ -318,7 +280,6 @@
     "стоки.md",
     "Source/Pasted image 20250118011207.png",
     "Source/Pasted image 20250118010741.png",
-    "Source/Pasted image 20250118010142.png",
     "daily notes/2025-01-17.md",
     "ресурсы для моделей.md",
     "сайт знакомств",
