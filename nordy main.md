@@ -8,7 +8,7 @@ MOC
 
 SDXL[ Envy Shadow Minimalism](https://civitai.com/models/234128/envy-shadow-minimalism-xl-01)
 
-
+[Отпрвка в телеграм картинок с comfyUI ](https://civitai.com/models/413438/comfyui-custom-node-telegramsender)
 NewRealityAllinOne хорошо справился со скелетами
 ### Для дизайна
 
