@@ -11,10 +11,12 @@
             "id": "370c2a6e058c1399",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/prompts.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "prompts.excalidraw"
             }
           }
         ]
@@ -245,13 +247,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d5d537bcaae12a08",
+  "active": "370c2a6e058c1399",
   "lastOpenFiles": [
+    "Промпты.md",
     "Excalidraw/prompts.excalidraw.md",
     "Nordy main.md",
     "Инфлюенсеры по AI.md",
     "Source/Pasted image 20250121011459.png",
-    "Промпты.md",
     "markmind/nordy.md",
     "daily notes/2025-01-20.md",
     "Excalidraw/Фрилансеры.md",
