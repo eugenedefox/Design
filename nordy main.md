@@ -5,13 +5,25 @@ MOC
 [[Промпты]]
 [[Инфлюенсеры по AI]]
 ## Модели ComfyUI Civit
+### Для дизайна
+
 
 SDXL[ Envy Shadow Minimalism](https://civitai.com/models/234128/envy-shadow-minimalism-xl-01)
+
+FLUX
+
 [специально для pod](https://civitai.com/models/125267?modelVersionId=136833)
+[ютуб объяснение](https://civitai.com/models/858494/t-shirt-graphic-designs-workflow)
+
+
 
 [Отпрвка в телеграм картинок с comfyUI ](https://civitai.com/models/413438/comfyui-custom-node-telegramsender)
 NewRealityAllinOne хорошо справился со скелетами
-### Для дизайна
+
+
+Создание от и до 
+
+
 ![[Pasted image 20250121204301.png]]
 [stroke cartoon](https://www.shakker.ai/modelinfo/89c38e448d634573a3b9593e219bddb4/CJ-Outline-Stroke-Cartoon-Illustration?from=search)
 Можно продавать и распространять 
