@@ -12,7 +12,7 @@ SDXL[ Envy Shadow Minimalism](https://civitai.com/models/234128/envy-shadow-mini
 NewRealityAllinOne хорошо справился со скелетами
 ### Для дизайна
 
-
+[Тест, чего-то похожего на MJ](# Ars MidJourney Style - Flux)
 Florence => Описание изображения 
 caricature-flux! Подходит под модель, можно продавать изображения!
 LORA
