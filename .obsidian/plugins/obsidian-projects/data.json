@@ -13,7 +13,7 @@
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
-      "isDefault": true,
+      "isDefault": false,
       "dataSource": {
         "kind": "folder",
         "config": {
@@ -95,6 +95,61 @@
       ],
       "id": "0e44e115-0dca-49cb-ad3e-4b396ebbf5f5",
       "name": "дизайн teepublic"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "PROjects",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "done",
+              "wasted",
+              "date",
+              "end date"
+            ],
+            "fieldConfig": {
+              "name": {
+                "width": 180
+              },
+              "excalidraw-plugin": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "0d7cf56c-1bee-4cb0-8b20-5ae0a0094772",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "68559933-6c45-4bf9-a809-88b110d2254f",
+      "name": "проекты"
     }
   ],
   "archives": [],

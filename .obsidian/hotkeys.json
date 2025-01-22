@@ -53,5 +53,15 @@
     }
   ],
   "workspace:goto-tab-1": [],
-  "shortcuts-extender:heading-1": []
+  "shortcuts-extender:heading-1": [],
+  "obsidian-projects:show-projects": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "shortcuts-extender:shortcut-code-block": [],
+  "editing-toolbar:header0-text": []
 }

@@ -48,9 +48,31 @@
               "icon": "lucide-file",
               "title": "Скачать шрифт"
             }
+          },
+          {
+            "id": "1a4776c0ffe02824",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "41205db6848133c2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "PROjects/ванос.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ванос.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,8 +135,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "c8be7815d57398f3",
@@ -135,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.503475189209
+    "width": 227.50347518920898
   },
   "right": {
     "id": "550b9e8299955c0d",
@@ -256,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,8 +300,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "98103c1eb4fd7112",
+  "active": "1a4776c0ffe02824",
   "lastOpenFiles": [
+    "PROjects/ванос.excalidraw.md",
+    "Font/Скачать шрифт.md",
+    "PROjects",
     "Шрифты.md",
     "Шрифты для дизайна.md",
     "Excalidraw/мудборд.md",
@@ -314,8 +339,6 @@
     "Upscayl.md",
     "daily notes/2025-01-18.md",
     "Source/Pasted Image 20250118233336_101.png",
-    "мудборд.md",
-    "стоки.md",
     "сайт знакомств",
     "markmind",
     "template",
@@ -325,7 +348,6 @@
     "Дизайн TEEPUBLIC",
     "Звук для таймера/spongebob-fail.mp3",
     "Звук для таймера",
-    "Новая папка",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
