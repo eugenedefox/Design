@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Скачать шрифт",
+      "path": "Font/Скачать шрифт.md"
+    },
+    {
+      "basename": "Шрифты",
+      "path": "Шрифты.md"
+    },
+    {
+      "basename": "Шрифты для дизайна",
+      "path": "Шрифты для дизайна.md"
+    },
+    {
+      "basename": "мудборд",
+      "path": "Excalidraw/мудборд.md"
+    },
+    {
       "basename": "Nordy main",
       "path": "Nordy main.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "nordy",
       "path": "markmind/nordy.md"
-    },
-    {
-      "basename": "мудборд",
-      "path": "Excalidraw/мудборд.md"
     },
     {
       "basename": "prompts.excalidraw",
