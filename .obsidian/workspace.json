@@ -53,10 +53,12 @@
             "id": "1a4776c0ffe02824",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "excalidraw",
+              "state": {
+                "file": "PROjects/ванос.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ванос.excalidraw"
             }
           },
           {
