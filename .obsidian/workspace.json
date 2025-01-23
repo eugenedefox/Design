@@ -56,12 +56,15 @@
             "id": "1a4776c0ffe02824",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "PROjects/ванос.excalidraw.md"
+                "file": "Nordy main.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "ванос.excalidraw"
+              "icon": "lucide-file",
+              "title": "Nordy main"
             }
           },
           {
@@ -92,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -302,19 +305,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1a4776c0ffe02824",
+  "active": "41205db6848133c2",
   "lastOpenFiles": [
+    "Font/Скачать шрифт.md",
+    "Nordy main.md",
+    "PROjects/ванос.excalidraw.md",
     "Шрифты.md",
     "Source/Pasted image 20250123015715.png",
     "Source/Pasted image 20250123015321.png",
-    "Font/Скачать шрифт.md",
-    "PROjects/ванос.excalidraw.md",
     "Source/Pasted image 20250123014916.png",
     "Source/Pasted image 20250123014904.png",
     "Excalidraw/мудборд.md",
     "Шрифты для дизайна.md",
     "PROjects",
-    "Nordy main.md",
     "Source/Pasted image 20250121204301.png",
     "Дизайн TEEPUBLIC/хуй.md",
     "Промпты.md",

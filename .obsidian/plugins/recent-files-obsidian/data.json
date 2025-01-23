@@ -5,12 +5,16 @@
       "path": "PROjects/ванос.excalidraw.md"
     },
     {
-      "basename": "Шрифты",
-      "path": "Шрифты.md"
-    },
-    {
       "basename": "Скачать шрифт",
       "path": "Font/Скачать шрифт.md"
+    },
+    {
+      "basename": "Nordy main",
+      "path": "Nordy main.md"
+    },
+    {
+      "basename": "Шрифты",
+      "path": "Шрифты.md"
     },
     {
       "basename": "мудборд",
@@ -19,10 +23,6 @@
     {
       "basename": "Шрифты для дизайна",
       "path": "Шрифты для дизайна.md"
-    },
-    {
-      "basename": "Nordy main",
-      "path": "Nordy main.md"
     },
     {
       "basename": "Промпты",
