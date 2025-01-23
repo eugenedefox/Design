@@ -52,8 +52,7 @@
               "title": "Скачать шрифт"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,6 +112,22 @@
               "state": {},
               "icon": "clock",
               "title": "Recent Files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "22fc9572a261cb2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ba3e8a99281fe35",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
             }
           }
         ]
@@ -217,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "32ced4c2394580ed",
@@ -240,8 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,18 +270,20 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "soundscapes:Soundscapes: My Music": false,
-      "pomodoro-timer:Toggle timer panel": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-projects:Open projects": false,
       "templater-obsidian:Templater": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d5d537bcaae12a08",
+  "active": "8ba3e8a99281fe35",
   "lastOpenFiles": [
+    "daily notes/2025-01-23.md",
+    "Font/Скачать шрифт.md",
+    "Промпты.md",
     "Nordy main.md",
     "PROjects/ванос.excalidraw.md",
-    "Font/Скачать шрифт.md",
     "Шрифты.md",
     "Source/Pasted image 20250123015715.png",
     "Source/Pasted image 20250123015321.png",
@@ -278,7 +294,6 @@
     "PROjects",
     "Source/Pasted image 20250121204301.png",
     "Дизайн TEEPUBLIC/хуй.md",
-    "Промпты.md",
     "Source/Pasted image 20250121193931.png",
     "markmind/nordy.md",
     "Excalidraw/prompts.excalidraw.md",
