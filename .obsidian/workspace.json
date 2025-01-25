@@ -41,15 +41,12 @@
             "id": "368d3e82b944e344",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Font/Скачать шрифт.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "PROjects/ванос.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Скачать шрифт"
+              "icon": "excalidraw-icon",
+              "title": "ванос.excalidraw"
             }
           },
           {
@@ -271,7 +268,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 392.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,11 +294,15 @@
   "active": "368d3e82b944e344",
   "lastOpenFiles": [
     "Обложка.md",
+    "PROjects/ванос.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Palette loader.svg",
+    "Excalidraw/Scripts/Downloaded/Palette loader.md",
+    "Source/MiddleMergedFixOverpng.png",
+    "Source/казна пустеет1.png",
+    "Font/Скачать шрифт.md",
     "Промпты.md",
     "daily notes/2025-01-23.md",
-    "Font/Скачать шрифт.md",
     "Nordy main.md",
-    "PROjects/ванос.excalidraw.md",
     "Шрифты.md",
     "Source/Pasted image 20250123015715.png",
     "Source/Pasted image 20250123015321.png",
@@ -318,7 +320,6 @@
     "Source/Pasted image 20250121011459.png",
     "daily notes/2025-01-20.md",
     "Excalidraw/Фрилансеры.md",
-    "Source/Pasted Image 20250120202642_279.png",
     "Excalidraw/Сartoon.md",
     "Excalidraw/Аналитика.md",
     "Excalidraw/Для дизайна teepublic.excalidraw.md",
@@ -326,12 +327,8 @@
     "Создание Prompt.md",
     "QR codes.md",
     "Hotkeys nordy.ai.md",
-    "Source/Pasted image 20250120070729.png",
-    "Source/Pasted image 20250120070720.png",
     "hotkey Illustrator.md",
     "Untitled mindmap.md",
-    "Untitled 1.md",
-    "Upscayl.md",
     "сайт знакомств",
     "markmind",
     "template",
