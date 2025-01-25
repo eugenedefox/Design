@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -293,10 +293,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "7c66e27eacba3dfd",
+  "active": "368d3e82b944e344",
   "lastOpenFiles": [
-    "Промпты.md",
     "Обложка.md",
+    "Промпты.md",
     "daily notes/2025-01-23.md",
     "Font/Скачать шрифт.md",
     "Nordy main.md",
