@@ -45,6 +45,28 @@ LORA
 [Lora но почему-то в моделях, рогатка](https://civitai.com/models/824950/stoiqo-afrodite-lora)
 [3d cartoon flux для игр, но слишком детская и пластиковая](https://civitai.com/models/662924/3d-cartoon-vision-flux)
 
+
+
+## Lora
+
+Coloriong book => Plastic
+
+[ Happy Ai-Claymation-cute 3D characters 3D](https://www.shakker.ai/th/modelinfo/7970c9de326c4825ac70c54e9046dc6c/Happy-Ai-Everything-is-Clay-Halloween-themed-cute-3D-spooky-characters-icons-claymation-world)
+
+Old school tattoo
+https://civitai.com/models/726890/old-schoolvintage-tattoo-style-for-flux
+
+СЕТ
+AIDMA
+
+
+T'-shirt vector style
+tshirt design, cat, retro sunset in the background, in the style of 5h1rt
+
+![[Pasted image 20250126223654.png]]
+
+
+
 ## Wildcards 
 На Flux Amateurphoto
 Нода Flux Prompt generator
