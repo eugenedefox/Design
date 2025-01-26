@@ -55,9 +55,12 @@ Coloriong book => Plastic
 
 Old school tattoo
 https://civitai.com/models/726890/old-schoolvintage-tattoo-style-for-flux
-
+Ultra low angle 
 СЕТ
 AIDMA
+[MJ anime ](![[Pasted image 20250126232312.png]])
+[steven rhodes ](https://civitai.com/models/491378/retro-comics-sdxl-10)
+austin abbey тамплиеры но flux
 
 
 T'-shirt vector style
