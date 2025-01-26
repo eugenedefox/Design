@@ -8,8 +8,7 @@ MOC
 ### Для дизайна
 
 QR-Code
-
-Pilgrim_2D
+Pilgrim_2D SDXL
 
 
 SDXL[ Envy Shadow Minimalism](https://civitai.com/models/234128/envy-shadow-minimalism-xl-01)
