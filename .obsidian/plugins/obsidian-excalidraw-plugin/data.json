@@ -160,7 +160,8 @@
   "taskboneAPIkey": "",
   "pinnedScripts": [
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.md"
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
+    "Excalidraw/Scripts/Downloaded/Palette loader.md"
   ],
   "customPens": [
     {

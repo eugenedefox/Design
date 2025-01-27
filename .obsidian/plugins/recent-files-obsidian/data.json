@@ -5,6 +5,10 @@
       "path": "PROjects/ванос.excalidraw.md"
     },
     {
+      "basename": "MiddleMergedFixOverpng",
+      "path": "Source/MiddleMergedFixOverpng.png"
+    },
+    {
       "basename": "Промпты",
       "path": "Промпты.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Обложка",
       "path": "Обложка.md"
-    },
-    {
-      "basename": "MiddleMergedFixOverpng",
-      "path": "Source/MiddleMergedFixOverpng.png"
     },
     {
       "basename": "Шрифты",
