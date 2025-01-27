@@ -8,36 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "370c2a6e058c1399",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Промпты.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Промпты"
-            }
-          },
-          {
-            "id": "98103c1eb4fd7112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nordy main.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nordy main"
-            }
-          },
-          {
             "id": "786db23132f4eba7",
             "type": "leaf",
             "state": {
@@ -48,36 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "ванос.excalidraw"
             }
-          },
-          {
-            "id": "368d3e82b944e344",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "PROjects/ванос.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ванос.excalidraw"
-            }
-          },
-          {
-            "id": "7c66e27eacba3dfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обложка.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Обложка"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -303,11 +245,11 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d5d537bcaae12a08",
+  "active": "786db23132f4eba7",
   "lastOpenFiles": [
     "Промпты.md",
-    "PROjects/ванос.excalidraw.md",
     "Nordy main.md",
+    "PROjects/ванос.excalidraw.md",
     "Source/Pasted image 20250126232312.png",
     "Source/Pasted image 20250126223654.png",
     "Font/Скачать шрифт.md",
