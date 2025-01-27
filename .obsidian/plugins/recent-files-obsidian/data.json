@@ -5,12 +5,16 @@
       "path": "Nordy main.md"
     },
     {
-      "basename": "Скачать шрифт",
-      "path": "Font/Скачать шрифт.md"
+      "basename": "Промпты",
+      "path": "Промпты.md"
     },
     {
       "basename": "ванос.excalidraw",
       "path": "PROjects/ванос.excalidraw.md"
+    },
+    {
+      "basename": "Скачать шрифт",
+      "path": "Font/Скачать шрифт.md"
     },
     {
       "basename": "Обложка",
@@ -19,10 +23,6 @@
     {
       "basename": "MiddleMergedFixOverpng",
       "path": "Source/MiddleMergedFixOverpng.png"
-    },
-    {
-      "basename": "Промпты",
-      "path": "Промпты.md"
     },
     {
       "basename": "Шрифты",
