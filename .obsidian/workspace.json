@@ -25,13 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cover letter.md",
+                "file": "Шрифты.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cover letter"
+              "title": "Шрифты"
             }
           }
         ],
@@ -263,8 +263,11 @@
   },
   "active": "cdfd199fc6ec383d",
   "lastOpenFiles": [
-    "PROjects/ванос.excalidraw.md",
+    "Source/Pasted image 20250128050550.png",
+    "Source/Pasted image 20250128050517.png",
     "Cover letter.md",
+    "Шрифты для дизайна.md",
+    "PROjects/ванос.excalidraw.md",
     "Source/MiddleMergedFixOverpng.png",
     "Source/Pasted Image 20250127232550_388.png",
     "Промпты.md",
@@ -281,9 +284,7 @@
     "Source/Pasted image 20250123015715.png",
     "Source/Pasted image 20250123015321.png",
     "Source/Pasted image 20250123014916.png",
-    "Source/Pasted image 20250123014904.png",
     "Excalidraw/мудборд.md",
-    "Шрифты для дизайна.md",
     "PROjects",
     "Дизайн TEEPUBLIC/хуй.md",
     "markmind/nordy.md",
@@ -299,7 +300,6 @@
     "QR codes.md",
     "Hotkeys nordy.ai.md",
     "hotkey Illustrator.md",
-    "Untitled mindmap.md",
     "сайт знакомств",
     "markmind",
     "template",
