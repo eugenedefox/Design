@@ -11,12 +11,15 @@
             "id": "786db23132f4eba7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "PROjects/ванос.excalidraw.md"
+                "file": "daily notes/2025-01-18.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "ванос.excalidraw"
+              "icon": "lucide-file",
+              "title": "2025-01-18"
             }
           },
           {
@@ -152,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2024-11-30.md",
+                "file": "daily notes/2025-01-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-11-30"
+              "title": "Outgoing links from 2025-01-18"
             }
           },
           {
@@ -178,9 +181,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "daily notes/2025-01-18.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-01-18"
             }
           },
           {
@@ -214,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "32ced4c2394580ed",
@@ -261,8 +266,8 @@
   },
   "active": "786db23132f4eba7",
   "lastOpenFiles": [
-    "daily notes/2025-01-28.md",
     "PROjects/ванос.excalidraw.md",
+    "daily notes/2025-01-28.md",
     "Nordy main.md",
     "Шрифты.md",
     "Source/Pasted image 20250128050550.png",
