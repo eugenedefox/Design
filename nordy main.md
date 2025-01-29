@@ -1,4 +1,5 @@
 #comfyui
+https://www.runcomfy.com/ru/comfyui-web
 
 MOC
 
