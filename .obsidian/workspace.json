@@ -86,10 +86,12 @@
             "id": "b085274bd0ddf4a2",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "excalidraw",
+              "state": {
+                "file": "PROjects/lj,fdbn.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "lj,fdbn.excalidraw"
             }
           },
           {
@@ -98,14 +100,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "PROjects/Drawing 2025-01-29 04.50.00.excalidraw.md"
+                "file": "PROjects/lj,fdbn.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-29 04.50.00.excalidraw"
+              "title": "lj,fdbn.excalidraw"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,12 +225,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROjects/Drawing 2025-01-29 04.50.00.excalidraw.md",
+                "file": "PROjects/lj,fdbn.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-01-29 04.50.00.excalidraw"
+              "title": "Outgoing links from lj,fdbn.excalidraw"
             }
           },
           {
@@ -250,10 +252,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROjects/Drawing 2025-01-29 04.50.00.excalidraw.md"
+                "file": "PROjects/lj,fdbn.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-01-29 04.50.00.excalidraw"
+              "title": "Outline of lj,fdbn.excalidraw"
             }
           },
           {
@@ -332,9 +334,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "1c592ec9f30bb086",
+  "active": "b085274bd0ddf4a2",
   "lastOpenFiles": [
-    "PROjects/Drawing 2025-01-29 04.50.00.excalidraw.md",
+    "PROjects/lj,fdbn.excalidraw.md",
+    "daily notes/2025-01-29.md",
     "Pallets.md",
     "Шрифты.md",
     "Source/Pasted image 20250129040348.png",
@@ -370,7 +373,6 @@
     "Excalidraw/Сartoon.md",
     "Excalidraw/Аналитика.md",
     "Excalidraw/Для дизайна teepublic.excalidraw.md",
-    "Excalidraw/Cайт чат рулетки.md",
     "сайт знакомств",
     "markmind",
     "template",
