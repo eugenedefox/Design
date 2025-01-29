@@ -1,5 +1,7 @@
 #comfyui
 https://www.runcomfy.com/ru/comfyui-web
+есть платный и бесплатный тарифный план 
+
 
 MOC
 
