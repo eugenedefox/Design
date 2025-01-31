@@ -21,6 +21,16 @@
               "icon": "lucide-file",
               "title": "2025-01-18"
             }
+          },
+          {
+            "id": "f4d18a8d4d169e6d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -251,11 +261,11 @@
   },
   "active": "786db23132f4eba7",
   "lastOpenFiles": [
+    "daily notes/2025-01-18.md",
     "daily notes/2025-01-28.md",
     "Pallets.md",
     "daily notes/2025-01-29.md",
     "Шрифты.md",
-    "daily notes/2025-01-18.md",
     "Etsy.md",
     "PROjects/lj,fdbn.excalidraw.md",
     "Nordy main.md",
