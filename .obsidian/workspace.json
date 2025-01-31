@@ -15,11 +15,23 @@
               "state": {
                 "file": "daily notes/2025-01-18.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "2025-01-18"
+            }
+          },
+          {
+            "id": "a9e12ee7ee8abbf2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           },
           {
@@ -32,7 +44,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +64,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -259,7 +273,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "786db23132f4eba7",
+  "active": "a9e12ee7ee8abbf2",
   "lastOpenFiles": [
     "daily notes/2025-01-18.md",
     "daily notes/2025-01-28.md",
