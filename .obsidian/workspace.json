@@ -23,25 +23,18 @@
             }
           },
           {
-            "id": "a9e12ee7ee8abbf2",
+            "id": "14806c855d7b7728",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Photoshop пакетная обработка.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
-          },
-          {
-            "id": "f4d18a8d4d169e6d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Photoshop пакетная обработка"
             }
           }
         ],
@@ -273,9 +266,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "a9e12ee7ee8abbf2",
+  "active": "14806c855d7b7728",
   "lastOpenFiles": [
     "daily notes/2025-01-18.md",
+    "Photoshop пакетная обработка.md",
     "daily notes/2025-01-28.md",
     "Pallets.md",
     "daily notes/2025-01-29.md",
@@ -311,7 +305,6 @@
     "Excalidraw/Фрилансеры.md",
     "Excalidraw/Сartoon.md",
     "Excalidraw/Аналитика.md",
-    "Excalidraw/Для дизайна teepublic.excalidraw.md",
     "сайт знакомств",
     "markmind",
     "template",

@@ -1,0 +1,1 @@
+https://github.com/avialxee/photoshop-jsx/tree/main?tab=readme-ov-file#how-to-use
