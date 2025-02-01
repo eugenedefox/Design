@@ -1,1 +1,1 @@
-https://github.com/avialxee/photoshop-jsx/tree/main?tab=readme-ov-file#how-to-use
+[[[https://github.com/avialxee/photoshop-jsx/tree/main?tab=readme-ov-file#how-to-use](https://www.youtube.com/watch?v=6W9C61U5jgU)](https://www.youtube.com/watch?v=6W9C61U5jgU)](https://www.youtube.com/watch?v=6W9C61U5jgU)
