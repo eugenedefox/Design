@@ -23,18 +23,18 @@
             }
           },
           {
-            "id": "14806c855d7b7728",
+            "id": "6797f61b6b7f7f31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photoshop пакетная обработка.md",
+                "file": "Project_edit/motivation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Photoshop пакетная обработка"
+              "title": "motivation"
             }
           }
         ],
@@ -244,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 392.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,10 +267,13 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "14806c855d7b7728",
+  "active": "6797f61b6b7f7f31",
   "lastOpenFiles": [
+    "Project_edit/motivation.md",
     "daily notes/2025-01-18.md",
     "Photoshop пакетная обработка.md",
+    "Project_edit/площадка.md",
+    "Project_edit",
     "daily notes/2025-01-28.md",
     "Pallets.md",
     "daily notes/2025-01-29.md",
@@ -303,8 +307,6 @@
     "Инфлюенсеры по AI.md",
     "daily notes/2025-01-20.md",
     "Excalidraw/Фрилансеры.md",
-    "Excalidraw/Сartoon.md",
-    "Excalidraw/Аналитика.md",
     "сайт знакомств",
     "markmind",
     "template",
@@ -313,7 +315,6 @@
     "Excalidraw/Scripts",
     "Дизайн TEEPUBLIC",
     "Звук для таймера/spongebob-fail.mp3",
-    "Звук для таймера",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

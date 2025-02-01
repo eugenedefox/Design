@@ -150,6 +150,73 @@
       ],
       "id": "68559933-6c45-4bf9-a809-88b110d2254f",
       "name": "проекты"
+    },
+    {
+      "fieldConfig": {
+        "created": {
+          "time": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project_edit",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 153
+              },
+              "path": {
+                "width": 165
+              },
+              "client": {
+                "width": 162
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "68e4910c-0ec0-4778-97bc-2f592a11e586",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "a86e2660-8e1e-4988-8e5f-d6c2c631654f",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "f67749a0-b0bc-4737-8b67-320ad03d37ee",
+      "name": "editing"
     }
   ],
   "archives": [],
