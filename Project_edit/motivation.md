@@ -3,5 +3,5 @@ client: egon@eugenezuban.com
 ---
 
 https://www.instagram.com/p/DD7h7VYoo0c/
-
-captions => субтитры
+6 с прочерком
+captions => субтитры 10$ в месяц
