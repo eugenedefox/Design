@@ -33,9 +33,31 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-02-01 23.45.55.excalidraw"
             }
+          },
+          {
+            "id": "552b4ee555193780",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "7ab972c447d1324a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "PROjects/Drawing 2025-02-06 12.16.14.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-06 12.16.14.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -264,10 +286,13 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "6f0940947b741a76",
+  "active": "7ab972c447d1324a",
   "lastOpenFiles": [
-    "Project_edit/motivation.md",
+    "Source/Pasted image 20250205162446.png",
+    "PROjects/Drawing 2025-02-06 12.16.14.excalidraw.md",
+    "PROjects/Анимация тик-ток.md",
     "Project_edit/Drawing 2025-02-01 23.45.55.excalidraw.md",
+    "Project_edit/motivation.md",
     "daily notes/2025-01-18.md",
     "Субтитры captions.md",
     "Photoshop пакетная обработка.md",
@@ -301,9 +326,6 @@
     "Excalidraw/мудборд.md",
     "PROjects",
     "Дизайн TEEPUBLIC/хуй.md",
-    "markmind/nordy.md",
-    "Excalidraw/prompts.excalidraw.md",
-    "Инфлюенсеры по AI.md",
     "сайт знакомств",
     "markmind",
     "template",
