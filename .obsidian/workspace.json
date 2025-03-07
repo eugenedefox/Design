@@ -38,6 +38,28 @@
             }
           },
           {
+            "id": "678bb5fc42140ae6",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "3c98736aa7946916",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "PROjects/одежда хаширама.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "одежда хаширама.excalidraw"
+            }
+          },
+          {
             "id": "86cb1a8dbeaf638f",
             "type": "leaf",
             "state": {
@@ -50,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -279,10 +301,12 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d5d537bcaae12a08",
+  "active": "3c98736aa7946916",
   "lastOpenFiles": [
-    "FreelanceHunt.md",
+    "PROjects/одежда хаширама.excalidraw.md",
     "Шрифты монтаж.md",
+    "PROjects/одежда наруто.md",
+    "FreelanceHunt.md",
     "Source/Pasted image 20250226233612.png",
     "Source/Pasted image 20250226233251.png",
     "PROjects/speed ramp.md",
@@ -316,8 +340,6 @@
     "Source/Pasted image 20250129035618.png",
     "Source/Pasted image 20250128050550.png",
     "Source/Pasted image 20250128050517.png",
-    "Cover letter.md",
-    "Шрифты для дизайна.md",
     "PROjects",
     "сайт знакомств",
     "markmind",
