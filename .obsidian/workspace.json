@@ -41,22 +41,12 @@
             "id": "678bb5fc42140ae6",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
-            }
-          },
-          {
-            "id": "3c98736aa7946916",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "mindmapview",
               "state": {
-                "file": "PROjects/одежда хаширама.excalidraw.md"
+                "file": "markmind/Сайт.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "одежда хаширама.excalidraw"
+              "icon": "blocks",
+              "title": "Сайт"
             }
           },
           {
@@ -72,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -301,17 +291,18 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "3c98736aa7946916",
+  "active": "678bb5fc42140ae6",
   "lastOpenFiles": [
+    "markmind/сайт на подобии чат рулетки.md",
+    "PROjects/speed ramp.md",
+    "Шрифты.md",
     "PROjects/одежда хаширама.excalidraw.md",
     "Шрифты монтаж.md",
     "PROjects/одежда наруто.md",
     "FreelanceHunt.md",
     "Source/Pasted image 20250226233612.png",
     "Source/Pasted image 20250226233251.png",
-    "PROjects/speed ramp.md",
     "PROjects/Untitled.md",
-    "Шрифты.md",
     "PROjects/inspiration.excalidraw.md",
     "After effects плагины.md",
     "Project_edit/motivation.md",
@@ -333,7 +324,6 @@
     "Pallets.md",
     "daily notes/2025-01-29.md",
     "Etsy.md",
-    "Nordy main.md",
     "Source/Pasted image 20250129040348.png",
     "Source/b4feac4c8d063b2c50867ff23e9e67e8 1.jpg",
     "Source/b4feac4c8d063b2c50867ff23e9e67e8.jpg",
