@@ -8,61 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ab972c447d1324a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шрифты.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Шрифты"
-            }
-          },
-          {
-            "id": "38454158ac0dedd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шрифты монтаж.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Шрифты монтаж"
-            }
-          },
-          {
             "id": "678bb5fc42140ae6",
             "type": "leaf",
             "state": {
               "type": "mindmapview",
               "state": {
-                "file": "markmind/Сайт.md"
+                "file": "markmind/netorare story.md"
               },
               "icon": "blocks",
-              "title": "Сайт"
+              "title": "netorare story"
             }
           },
           {
-            "id": "86cb1a8dbeaf638f",
+            "id": "6872d209270bc884",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "PROjects/speed ramp.md"
+                "file": "Rejected Faith.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "speed ramp"
+              "icon": "lucide-file",
+              "title": "Rejected Faith"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -291,13 +264,16 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "678bb5fc42140ae6",
+  "active": "6872d209270bc884",
   "lastOpenFiles": [
-    "markmind/сайт на подобии чат рулетки.md",
+    "Rejected Faith.md",
+    "markmind/netorare story.md",
     "PROjects/speed ramp.md",
     "Шрифты.md",
-    "PROjects/одежда хаширама.excalidraw.md",
     "Шрифты монтаж.md",
+    "markmind/Сайт.md",
+    "markmind/сайт на подобии чат рулетки.md",
+    "PROjects/одежда хаширама.excalidraw.md",
     "PROjects/одежда наруто.md",
     "FreelanceHunt.md",
     "Source/Pasted image 20250226233612.png",
@@ -321,9 +297,6 @@
     "Project_edit/площадка.md",
     "Project_edit",
     "daily notes/2025-01-28.md",
-    "Pallets.md",
-    "daily notes/2025-01-29.md",
-    "Etsy.md",
     "Source/Pasted image 20250129040348.png",
     "Source/b4feac4c8d063b2c50867ff23e9e67e8 1.jpg",
     "Source/b4feac4c8d063b2c50867ff23e9e67e8.jpg",
