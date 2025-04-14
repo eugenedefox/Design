@@ -11,12 +11,15 @@
             "id": "678bb5fc42140ae6",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "markmind/netorare story.md"
+                "file": "Шрифты монтаж.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "blocks",
-              "title": "netorare story"
+              "icon": "lucide-file",
+              "title": "Шрифты монтаж"
             }
           },
           {
@@ -34,8 +37,7 @@
               "title": "Rejected Faith"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,9 +268,9 @@
   },
   "active": "d5d537bcaae12a08",
   "lastOpenFiles": [
-    "daily notes/2025-04-03.md",
     "markmind/netorare story.md",
     "Rejected Faith.md",
+    "daily notes/2025-04-03.md",
     "Source/Pasted image 20250330165055.png",
     "Source/Pasted image 20250330165019.png",
     "PROjects/speed ramp.md",
