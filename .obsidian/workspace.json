@@ -26,10 +26,15 @@
             "id": "534bffeaf2810787",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "markdown",
+              "state": {
+                "file": "PROjects/Problems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Problems"
             }
           },
           {
@@ -277,8 +282,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d5d537bcaae12a08",
+  "active": "534bffeaf2810787",
   "lastOpenFiles": [
+    "Source/Pasted image 20250415234947.png",
+    "PROjects/Problems.md",
     "Шрифты монтаж.md",
     "Rejected Faith.md",
     "markmind/netorare story.md",
@@ -309,8 +316,6 @@
     "Source/Pasted image 20250205162446.png",
     "daily notes/2025-01-18.md",
     "Субтитры captions.md",
-    "Photoshop пакетная обработка.md",
-    "Project_edit/площадка.md",
     "Project_edit",
     "Source/Pasted image 20250129040348.png",
     "Source/b4feac4c8d063b2c50867ff23e9e67e8 1.jpg",
