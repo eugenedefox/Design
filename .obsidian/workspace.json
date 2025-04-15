@@ -23,6 +23,16 @@
             }
           },
           {
+            "id": "534bffeaf2810787",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
             "id": "6872d209270bc884",
             "type": "leaf",
             "state": {
@@ -37,7 +47,8 @@
               "title": "Rejected Faith"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,10 +277,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "678bb5fc42140ae6",
+  "active": "d5d537bcaae12a08",
   "lastOpenFiles": [
-    "Rejected Faith.md",
     "Шрифты монтаж.md",
+    "Rejected Faith.md",
     "markmind/netorare story.md",
     "daily notes/2025-04-03.md",
     "Source/Pasted image 20250330165055.png",
