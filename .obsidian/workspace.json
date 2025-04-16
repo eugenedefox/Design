@@ -13,13 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шрифты монтаж.md",
+                "file": "Шрифты.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Шрифты монтаж"
+              "title": "Шрифты"
+            }
+          },
+          {
+            "id": "86cadae8205f5dd9",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           },
           {
@@ -282,18 +292,18 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "534bffeaf2810787",
+  "active": "86cadae8205f5dd9",
   "lastOpenFiles": [
-    "Source/Pasted image 20250415234947.png",
-    "PROjects/Problems.md",
+    "Шрифты.md",
     "Шрифты монтаж.md",
+    "PROjects/Problems.md",
+    "Source/Pasted image 20250415234947.png",
     "Rejected Faith.md",
     "markmind/netorare story.md",
     "daily notes/2025-04-03.md",
     "Source/Pasted image 20250330165055.png",
     "Source/Pasted image 20250330165019.png",
     "PROjects/speed ramp.md",
-    "Шрифты.md",
     "markmind/Сайт.md",
     "markmind/сайт на подобии чат рулетки.md",
     "PROjects/одежда хаширама.excalidraw.md",
@@ -320,7 +330,6 @@
     "Source/Pasted image 20250129040348.png",
     "Source/b4feac4c8d063b2c50867ff23e9e67e8 1.jpg",
     "Source/b4feac4c8d063b2c50867ff23e9e67e8.jpg",
-    "Source/Pasted image 20250129035618.png",
     "PROjects",
     "сайт знакомств",
     "markmind",
