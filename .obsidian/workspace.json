@@ -26,10 +26,15 @@
             "id": "86cadae8205f5dd9",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "markdown",
+              "state": {
+                "file": "PROjects/Problems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Problems"
             }
           },
           {
@@ -292,7 +297,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "86cadae8205f5dd9",
+  "active": "d5d537bcaae12a08",
   "lastOpenFiles": [
     "Шрифты.md",
     "Шрифты монтаж.md",
