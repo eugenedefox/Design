@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROjects/Problems.md",
+                "file": "daily notes/2025-04-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Problems"
+              "title": "2025-04-17"
             }
           },
           {
@@ -251,7 +251,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "32ced4c2394580ed",
@@ -274,8 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
-    "collapsed": true
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,11 +296,12 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d5d537bcaae12a08",
+  "active": "86cadae8205f5dd9",
   "lastOpenFiles": [
+    "PROjects/Problems.md",
+    "daily notes/2025-04-17.md",
     "Шрифты.md",
     "Шрифты монтаж.md",
-    "PROjects/Problems.md",
     "Source/Pasted image 20250415234947.png",
     "Rejected Faith.md",
     "markmind/netorare story.md",
