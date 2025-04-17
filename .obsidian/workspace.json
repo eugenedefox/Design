@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шрифты.md",
+                "file": "Шрифты монтаж.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Шрифты"
+              "title": "Шрифты монтаж"
             }
           },
           {
@@ -67,8 +67,7 @@
               "title": "Rejected Faith"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nordy main.md",
+                "file": "Шрифты монтаж.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Nordy main"
+              "title": "Outgoing links from Шрифты монтаж"
             }
           },
           {
@@ -251,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "32ced4c2394580ed",
@@ -296,14 +295,14 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "86cadae8205f5dd9",
+  "active": "678bb5fc42140ae6",
   "lastOpenFiles": [
-    "PROjects/Problems.md",
-    "daily notes/2025-04-17.md",
     "Шрифты.md",
+    "daily notes/2025-04-17.md",
+    "PROjects/Problems.md",
+    "Rejected Faith.md",
     "Шрифты монтаж.md",
     "Source/Pasted image 20250415234947.png",
-    "Rejected Faith.md",
     "markmind/netorare story.md",
     "daily notes/2025-04-03.md",
     "Source/Pasted image 20250330165055.png",
