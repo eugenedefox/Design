@@ -36,16 +36,18 @@
             "id": "af1c0cf499582418",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "PROjects/Сверхкуб.excalidraw.md"
+                "file": "daily notes/2025-04-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Сверхкуб.excalidraw"
+              "icon": "lucide-file",
+              "title": "2025-04-03"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,18 +275,18 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "af1c0cf499582418",
+  "active": "6e47c4d3d038c35a",
   "lastOpenFiles": [
+    "Шрифты монтаж.md",
+    "daily notes/2025-04-03.md",
     "PROjects/Сверхкуб.excalidraw.md",
     "daily notes/2025-04-17.md",
-    "Шрифты монтаж.md",
     "Untitled.md",
     "Rejected Faith.md",
     "PROjects/Problems.md",
     "Шрифты.md",
     "Source/Pasted image 20250415234947.png",
     "markmind/netorare story.md",
-    "daily notes/2025-04-03.md",
     "Source/Pasted image 20250330165055.png",
     "Source/Pasted image 20250330165019.png",
     "PROjects/speed ramp.md",

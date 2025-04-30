@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Шрифты монтаж",
+      "path": "Шрифты монтаж.md"
+    },
+    {
+      "basename": "2025-04-03",
+      "path": "daily notes/2025-04-03.md"
+    },
+    {
       "basename": "Сверхкуб.excalidraw",
       "path": "PROjects/Сверхкуб.excalidraw.md"
     },
     {
       "basename": "2025-04-17",
       "path": "daily notes/2025-04-17.md"
-    },
-    {
-      "basename": "Шрифты монтаж",
-      "path": "Шрифты монтаж.md"
     },
     {
       "basename": "Untitled",
@@ -195,10 +199,6 @@
     {
       "basename": "QR codes",
       "path": "QR codes.md"
-    },
-    {
-      "basename": "Hotkeys nordy.ai",
-      "path": "Hotkeys nordy.ai.md"
     }
   ],
   "omittedPaths": [],
