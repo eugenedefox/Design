@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "anizuka.excalidraw",
+      "path": "PROjects/anizuka.excalidraw.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "PROjects/Untitled.md"
+    },
+    {
       "basename": "Шрифты монтаж",
       "path": "Шрифты монтаж.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "FreelanceHunt",
       "path": "FreelanceHunt.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "PROjects/Untitled.md"
     },
     {
       "basename": "inspiration.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "Создание Prompt",
       "path": "Создание Prompt.md"
-    },
-    {
-      "basename": "QR codes",
-      "path": "QR codes.md"
     }
   ],
   "omittedPaths": [],
