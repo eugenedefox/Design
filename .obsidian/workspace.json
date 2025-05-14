@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -303,7 +303,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "805e21842e127248",
+  "active": "b161cf0b0290bba1",
   "lastOpenFiles": [
     "PROjects/anizuka.excalidraw.md",
     "PROjects/Untitled.md",
