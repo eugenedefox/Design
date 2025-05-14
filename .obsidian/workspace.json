@@ -41,10 +41,24 @@
             "id": "b161cf0b0290bba1",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "excalidraw",
+              "state": {
+                "file": "Project_edit/Drawing 2025-02-01 23.45.55.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-01 23.45.55.excalidraw"
+            }
+          },
+          {
+            "id": "446bd1aeefb2217f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Project_edit/hyperspeed workua.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "hyperspeed workua.excalidraw"
             }
           },
           {
@@ -75,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -303,8 +317,14 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "b161cf0b0290bba1",
+  "active": "446bd1aeefb2217f",
   "lastOpenFiles": [
+    "Source/Pasted Image 20250514161135_243.png",
+    "Source/Pasted Image 20250514161026_407.png",
+    "Project_edit/hyperspeed workua.excalidraw.md",
+    "Source/Pasted Image 20250514160503_940.png",
+    "Source/Pasted Image 20250514160218_582.png",
+    "Project_edit/Drawing 2025-02-01 23.45.55.excalidraw.md",
     "PROjects/anizuka.excalidraw.md",
     "PROjects/Untitled.md",
     "Шрифты монтаж.md",
@@ -330,18 +350,12 @@
     "PROjects/inspiration.excalidraw.md",
     "After effects плагины.md",
     "Project_edit/motivation.md",
-    "Project_edit/Drawing 2025-02-01 23.45.55.excalidraw.md",
     "PROjects/lj,fdbn.excalidraw.md",
     "для заказчиков.md",
     "PROjects/ванос.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
-    "Вопросы к себе перед созданием дизайна.md",
-    "Быстрый старт в Obsidian.md",
     "Source/Pasted image 20250205162446.png",
     "Project_edit",
-    "Source/Pasted image 20250129040348.png",
-    "Source/b4feac4c8d063b2c50867ff23e9e67e8 1.jpg",
-    "Source/b4feac4c8d063b2c50867ff23e9e67e8.jpg",
     "PROjects",
     "сайт знакомств",
     "markmind",
