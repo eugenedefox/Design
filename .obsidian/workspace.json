@@ -88,7 +88,8 @@
               "title": "2025-04-03"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -316,8 +317,12 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d5d537bcaae12a08",
+  "active": "446bd1aeefb2217f",
   "lastOpenFiles": [
+    "Source/Pasted Image 20250520150733_503.png",
+    "Source/Pasted Image 20250520150701_143.png",
+    "Source/Pasted Image 20250520145203_554.png",
+    "PROjects/anizuka.excalidraw.md",
     "Шрифты монтаж.md",
     "Project_edit/hyperspeed workua.excalidraw.md",
     "Source/Pasted Image 20250514161135_243.png",
@@ -325,7 +330,6 @@
     "Source/Pasted Image 20250514160503_940.png",
     "Source/Pasted Image 20250514160218_582.png",
     "Project_edit/Drawing 2025-02-01 23.45.55.excalidraw.md",
-    "PROjects/anizuka.excalidraw.md",
     "PROjects/Untitled.md",
     "daily notes/2025-04-03.md",
     "PROjects/Сверхкуб.excalidraw.md",
@@ -345,14 +349,12 @@
     "PROjects/одежда наруто.md",
     "FreelanceHunt.md",
     "Source/Pasted image 20250226233612.png",
-    "Source/Pasted image 20250226233251.png",
     "PROjects/inspiration.excalidraw.md",
     "After effects плагины.md",
     "Project_edit/motivation.md",
     "PROjects/lj,fdbn.excalidraw.md",
     "для заказчиков.md",
     "PROjects/ванос.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
     "Project_edit",
     "PROjects",
     "сайт знакомств",
