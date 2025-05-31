@@ -40,9 +40,21 @@
               "icon": "excalidraw-icon",
               "title": "БЕРСЕРК.excalidraw"
             }
+          },
+          {
+            "id": "41b4557d332606be",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-31 20.54.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-31 20.54.26.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -270,9 +282,10 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "07ef8c7ff856d0d4",
+  "active": "41b4557d332606be",
   "lastOpenFiles": [
     "PROjects/БЕРСЕРК.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-31 20.54.26.excalidraw.md",
     "Project_edit/hyperspeed workua.excalidraw.md",
     "Source/Pasted Image 20250520150733_503.png",
     "Source/Pasted Image 20250520150701_143.png",
@@ -307,7 +320,6 @@
     "Project_edit/motivation.md",
     "PROjects/lj,fdbn.excalidraw.md",
     "для заказчиков.md",
-    "PROjects/ванос.excalidraw.md",
     "Project_edit",
     "PROjects",
     "сайт знакомств",
