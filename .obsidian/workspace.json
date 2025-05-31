@@ -18,8 +18,31 @@
               "icon": "excalidraw-icon",
               "title": "hyperspeed workua.excalidraw"
             }
+          },
+          {
+            "id": "77fca229c5edafd6",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "b60ee2062ee99bf2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "PROjects/БЕРСЕРК.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "БЕРСЕРК.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,8 +270,9 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d5d537bcaae12a08",
+  "active": "b60ee2062ee99bf2",
   "lastOpenFiles": [
+    "PROjects/БЕРСЕРК.excalidraw.md",
     "Project_edit/hyperspeed workua.excalidraw.md",
     "Source/Pasted Image 20250520150733_503.png",
     "Source/Pasted Image 20250520150701_143.png",
