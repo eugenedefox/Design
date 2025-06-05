@@ -8,25 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "446bd1aeefb2217f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Project_edit/hyperspeed workua.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "hyperspeed workua.excalidraw"
-            }
-          },
-          {
             "id": "77fca229c5edafd6",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "excel-view",
+              "state": {
+                "file": "Excel 2025-06-05 05.04.27.sheet.md"
+              },
+              "icon": "lucide-file",
+              "title": "Excel 2025-06-05 05.04.27.sheet"
             }
           },
           {
@@ -53,8 +43,7 @@
               "title": "Drawing 2025-05-31 20.54.26.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50347518920898
+    "width": 224.50347518920898
   },
   "right": {
     "id": "550b9e8299955c0d",
@@ -279,14 +268,17 @@
       "obsidian-projects:Open projects": false,
       "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "pomodoro-timer:Toggle timer panel": false,
+      "excel:Create Excel File": false
     }
   },
-  "active": "d5d537bcaae12a08",
+  "active": "77fca229c5edafd6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-05-31 20.54.26.excalidraw.md",
     "PROjects/БЕРСЕРК.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-31 20.54.26.excalidraw.md",
+    "Excel 2025-06-05 05.04.27.sheet.md",
     "Project_edit/hyperspeed workua.excalidraw.md",
+    "PROjects/Жизненный путь.md",
     "Source/Pasted Image 20250520150733_503.png",
     "Source/Pasted Image 20250520150701_143.png",
     "Source/Pasted Image 20250520145203_554.png",
@@ -318,8 +310,6 @@
     "PROjects/inspiration.excalidraw.md",
     "After effects плагины.md",
     "Project_edit/motivation.md",
-    "PROjects/lj,fdbn.excalidraw.md",
-    "для заказчиков.md",
     "Project_edit",
     "PROjects",
     "сайт знакомств",
