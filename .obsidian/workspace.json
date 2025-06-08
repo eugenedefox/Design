@@ -35,6 +35,33 @@
             }
           },
           {
+            "id": "40a14e18f87519f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "0100738d20442f8d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/моушн дизайн.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "моушн дизайн.excalidraw"
+            }
+          },
+          {
             "id": "b60ee2062ee99bf2",
             "type": "leaf",
             "state": {
@@ -59,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -288,27 +315,29 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "3024f3e4a6ce3a17",
+  "active": "0100738d20442f8d",
   "lastOpenFiles": [
-    "Source/Pasted image 20250608124259.png",
-    "Source/Pasted image 20250608124257.png",
-    "Source/Pasted image 20250608124226.png",
-    "Source/Pasted image 20250608120422.png",
-    "Source/Pasted image 20250608115759.png",
-    "Source/Pasted image 20250608115602.png",
+    "Source/Pasted Image 20250608144231_307.png",
+    "Source/Pasted Image 20250608144209_441.png",
+    "Source/Pasted Image 20250608143840_809.png",
+    "Source/Pasted Image 20250608143711_584.png",
+    "Source/Pasted Image 20250608143622_661.png",
+    "Source/Pasted Image 20250608143357_919.png",
+    "Source/Pasted Image 20250608142843_573.png",
+    "Excalidraw/моушн дизайн.excalidraw.md",
+    "Source/Pasted Image 20250608142951_402.png",
+    "Source/Pasted Image 20250608142458_767.png",
+    "Source/Pasted Image 20250608142232_086.png",
+    "Source/Pasted Image 20250608142115_525.png",
+    "Untitled 1.md",
     "PROjects/Черный клевер .md",
     "Excel 2025-06-05 05.04.27.sheet.md",
     "PROjects/БЕРСЕРК.excalidraw.md",
     "Excalidraw/Drawing 2025-05-31 20.54.26.excalidraw.md",
     "Project_edit/hyperspeed workua.excalidraw.md",
     "PROjects/Жизненный путь.md",
-    "Source/Pasted Image 20250520150733_503.png",
-    "Source/Pasted Image 20250520150701_143.png",
-    "Source/Pasted Image 20250520145203_554.png",
     "PROjects/anizuka.excalidraw.md",
     "Шрифты монтаж.md",
-    "Source/Pasted Image 20250514161135_243.png",
-    "Source/Pasted Image 20250514161026_407.png",
     "Project_edit/Drawing 2025-02-01 23.45.55.excalidraw.md",
     "PROjects/Untitled.md",
     "daily notes/2025-04-03.md",
@@ -324,8 +353,6 @@
     "markmind/сайт на подобии чат рулетки.md",
     "PROjects/одежда хаширама.excalidraw.md",
     "PROjects/одежда наруто.md",
-    "FreelanceHunt.md",
-    "PROjects/inspiration.excalidraw.md",
     "Project_edit",
     "PROjects",
     "сайт знакомств",
