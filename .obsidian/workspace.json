@@ -35,6 +35,18 @@
             }
           },
           {
+            "id": "c2f547ca41f541c5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/моушн дизайн.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "моушн дизайн.excalidraw"
+            }
+          },
+          {
             "id": "40a14e18f87519f1",
             "type": "leaf",
             "state": {
@@ -86,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +161,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "22fc9572a261cb2c",
@@ -315,8 +328,10 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "3024f3e4a6ce3a17",
+  "active": "c2f547ca41f541c5",
   "lastOpenFiles": [
+    "PROjects/Черный клевер .md",
+    "PROjects/Untitled.md",
     "Excalidraw/моушн дизайн.excalidraw.md",
     "Source/Pasted Image 20250608144231_307.png",
     "Source/Pasted Image 20250608144209_441.png",
@@ -329,7 +344,6 @@
     "Source/Pasted Image 20250608142458_767.png",
     "Source/Pasted Image 20250608142232_086.png",
     "Untitled 1.md",
-    "PROjects/Черный клевер .md",
     "Excel 2025-06-05 05.04.27.sheet.md",
     "PROjects/БЕРСЕРК.excalidraw.md",
     "Excalidraw/Drawing 2025-05-31 20.54.26.excalidraw.md",
@@ -338,7 +352,6 @@
     "PROjects/anizuka.excalidraw.md",
     "Шрифты монтаж.md",
     "Project_edit/Drawing 2025-02-01 23.45.55.excalidraw.md",
-    "PROjects/Untitled.md",
     "daily notes/2025-04-03.md",
     "PROjects/Сверхкуб.excalidraw.md",
     "daily notes/2025-04-17.md",
