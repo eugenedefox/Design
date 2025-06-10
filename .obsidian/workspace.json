@@ -47,6 +47,28 @@
             }
           },
           {
+            "id": "811998d212932714",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "fdcb6a2ec6bdf8d1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Project_edit/логотип.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "логотип.excalidraw"
+            }
+          },
+          {
             "id": "802d4d5401629eb1",
             "type": "leaf",
             "state": {
@@ -113,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -176,8 +198,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "22fc9572a261cb2c",
@@ -343,12 +364,16 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "c2f547ca41f541c5",
+  "active": "fdcb6a2ec6bdf8d1",
   "lastOpenFiles": [
+    "Source/Pasted Image 20250610165602_373.png",
+    "Project_edit/логотип.excalidraw.md",
+    "PROjects/Анимация логотипа.md",
+    "Source/Pasted image 20250610165415.png",
+    "Excalidraw/моушн дизайн.excalidraw.md",
     "PROjects/Черный клевер .md",
     "Анимация глаз.md",
     "Source/Pasted image 20250610123033.png",
-    "Excalidraw/моушн дизайн.excalidraw.md",
     "PROjects/Untitled.md",
     "Source/Pasted Image 20250608144231_307.png",
     "Source/Pasted Image 20250608144209_441.png",
@@ -358,7 +383,6 @@
     "Source/Pasted Image 20250608143357_919.png",
     "Source/Pasted Image 20250608142843_573.png",
     "Source/Pasted Image 20250608142951_402.png",
-    "Source/Pasted Image 20250608142458_767.png",
     "Untitled 1.md",
     "Excel 2025-06-05 05.04.27.sheet.md",
     "PROjects/БЕРСЕРК.excalidraw.md",
@@ -378,8 +402,6 @@
     "markmind/netorare story.md",
     "PROjects/speed ramp.md",
     "markmind/Сайт.md",
-    "markmind/сайт на подобии чат рулетки.md",
-    "PROjects/одежда хаширама.excalidraw.md",
     "Project_edit",
     "PROjects",
     "сайт знакомств",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "логотип.excalidraw",
+      "path": "Project_edit/логотип.excalidraw.md"
+    },
+    {
       "basename": "моушн дизайн.excalidraw",
       "path": "Excalidraw/моушн дизайн.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Промпты",
       "path": "Промпты.md"
-    },
-    {
-      "basename": "Скачать шрифт",
-      "path": "Font/Скачать шрифт.md"
     }
   ],
   "omittedPaths": [],
