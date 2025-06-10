@@ -25,10 +25,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Project_edit/логотип.excalidraw.md"
+                "file": "Excalidraw/моушн дизайн.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "логотип.excalidraw"
+              "title": "моушн дизайн.excalidraw"
             }
           },
           {
@@ -122,7 +122,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "22fc9572a261cb2c",
@@ -290,6 +291,7 @@
   },
   "active": "41a347fc7dd9e020",
   "lastOpenFiles": [
+    "Project_edit/логотип.excalidraw.md",
     "Source/Pasted Image 20250610174126_053.png",
     "Excel 2025-06-05 05.04.27.sheet.md",
     "PROjects/Черный клевер .md",
@@ -298,7 +300,6 @@
     "PROjects/БЕРСЕРК.excalidraw.md",
     "Untitled 1.md",
     "Анимация глаз.md",
-    "Project_edit/логотип.excalidraw.md",
     "Source/Pasted Image 20250610165602_373.png",
     "PROjects/Анимация логотипа.md",
     "Source/Pasted image 20250610165415.png",
@@ -310,7 +311,6 @@
     "Source/Pasted Image 20250608143711_584.png",
     "Source/Pasted Image 20250608143622_661.png",
     "Source/Pasted Image 20250608143357_919.png",
-    "Source/Pasted Image 20250608142843_573.png",
     "Project_edit/hyperspeed workua.excalidraw.md",
     "PROjects/Жизненный путь.md",
     "PROjects/anizuka.excalidraw.md",
