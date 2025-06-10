@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Анимация глаз",
+      "path": "Анимация глаз.md"
+    },
+    {
       "basename": "моушн дизайн.excalidraw",
       "path": "Excalidraw/моушн дизайн.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Скачать шрифт",
       "path": "Font/Скачать шрифт.md"
-    },
-    {
-      "basename": "Обложка",
-      "path": "Обложка.md"
     }
   ],
   "omittedPaths": [],
