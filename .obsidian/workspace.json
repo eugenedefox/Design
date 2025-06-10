@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "41a347fc7dd9e020",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Project_edit/логотип.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "логотип.excalidraw"
+            }
+          },
+          {
             "id": "3024f3e4a6ce3a17",
             "type": "leaf",
             "state": {
@@ -45,97 +57,9 @@
               "icon": "excalidraw-icon",
               "title": "моушн дизайн.excalidraw"
             }
-          },
-          {
-            "id": "811998d212932714",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
-            }
-          },
-          {
-            "id": "fdcb6a2ec6bdf8d1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Project_edit/логотип.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "логотип.excalidraw"
-            }
-          },
-          {
-            "id": "802d4d5401629eb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Анимация глаз.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Анимация глаз"
-            }
-          },
-          {
-            "id": "40a14e18f87519f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "0100738d20442f8d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/моушн дизайн.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "моушн дизайн.excalidraw"
-            }
-          },
-          {
-            "id": "b60ee2062ee99bf2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "PROjects/БЕРСЕРК.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "БЕРСЕРК.excalidraw"
-            }
-          },
-          {
-            "id": "41b4557d332606be",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-05-31 20.54.26.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-31 20.54.26.excalidraw"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -364,15 +288,20 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "fdcb6a2ec6bdf8d1",
+  "active": "41a347fc7dd9e020",
   "lastOpenFiles": [
-    "Source/Pasted Image 20250610165602_373.png",
+    "Source/Pasted Image 20250610174126_053.png",
+    "Excel 2025-06-05 05.04.27.sheet.md",
+    "PROjects/Черный клевер .md",
+    "Excalidraw/моушн дизайн.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-31 20.54.26.excalidraw.md",
+    "PROjects/БЕРСЕРК.excalidraw.md",
+    "Untitled 1.md",
+    "Анимация глаз.md",
     "Project_edit/логотип.excalidraw.md",
+    "Source/Pasted Image 20250610165602_373.png",
     "PROjects/Анимация логотипа.md",
     "Source/Pasted image 20250610165415.png",
-    "Excalidraw/моушн дизайн.excalidraw.md",
-    "PROjects/Черный клевер .md",
-    "Анимация глаз.md",
     "Source/Pasted image 20250610123033.png",
     "PROjects/Untitled.md",
     "Source/Pasted Image 20250608144231_307.png",
@@ -382,11 +311,6 @@
     "Source/Pasted Image 20250608143622_661.png",
     "Source/Pasted Image 20250608143357_919.png",
     "Source/Pasted Image 20250608142843_573.png",
-    "Source/Pasted Image 20250608142951_402.png",
-    "Untitled 1.md",
-    "Excel 2025-06-05 05.04.27.sheet.md",
-    "PROjects/БЕРСЕРК.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-31 20.54.26.excalidraw.md",
     "Project_edit/hyperspeed workua.excalidraw.md",
     "PROjects/Жизненный путь.md",
     "PROjects/anizuka.excalidraw.md",
