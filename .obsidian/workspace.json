@@ -59,6 +59,16 @@
             }
           },
           {
+            "id": "e639c37e803e6443",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
             "id": "3024f3e4a6ce3a17",
             "type": "leaf",
             "state": {
@@ -86,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -316,15 +326,15 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "9785c09f15fa298a",
+  "active": "e639c37e803e6443",
   "lastOpenFiles": [
+    "PROjects/Черный клевер .md",
     "Source/Pasted image 20250613145206.png",
     "PROjects/БЕРСЕРК.excalidraw.md",
     "Excalidraw/моушн дизайн.excalidraw.md",
     "Project_edit/логотип.excalidraw.md",
     "Source/Pasted Image 20250610174126_053.png",
     "Excel 2025-06-05 05.04.27.sheet.md",
-    "PROjects/Черный клевер .md",
     "Excalidraw/Drawing 2025-05-31 20.54.26.excalidraw.md",
     "Untitled 1.md",
     "Анимация глаз.md",
@@ -338,7 +348,6 @@
     "Source/Pasted Image 20250608143840_809.png",
     "Source/Pasted Image 20250608143711_584.png",
     "Source/Pasted Image 20250608143622_661.png",
-    "Source/Pasted Image 20250608143357_919.png",
     "Project_edit/hyperspeed workua.excalidraw.md",
     "PROjects/Жизненный путь.md",
     "PROjects/anizuka.excalidraw.md",
